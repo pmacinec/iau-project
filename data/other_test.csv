@@ -1,0 +1,1831 @@
+,name,address,query hyperthyroid,T4U measured,FTI measured,lithium,TT4,T4U,capital-loss,capital-gain,query hypothyroid,on thyroxine,tumor,TSH,T3,fnlwgt,FTI,hours-per-week,sick,thyroid surgery,workclass,I131 treatment,TT4 measured,goitre,TSH measured,hypopituitary,query on thyroxine,personal_info,T3 measured,on antithyroid medication,referral source,education-num,psych,occupation,TBG measured,TBG,pregnant
+0,Mary Campbell,"645 Salinas Mall Suite 303
+North Jasonmouth, KY 55882",f,t,,f,,1.15,0.0,0.0,,t,,0.49,,,150,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",f,f,other,9.0,f, Adm-clerical,f,?,
+1,Michelle Zayas,"309 Harper Plaza
+New Janiceberg, NJ 26087",f,t,t,f,192.0,1.44,0.0,0.0,f,t,f,0.81,,54229.0,134,37.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Married-civ-spouse|Wife",f,f,other,1200.0,f, Exec-managerial,f,?,f
+2,Donald Porter,"227 Turner Throughway Suite 285
+Tiffanyton, DC 50113",f,t,t,f,88.0,0.89,1980.0,0.0,f,f,f,0.4,1.7,124953.0,99,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, Other-service,f,?,f
+3,Sharon Mcgill,"29280 Michael Pine
+Abigailborough, WA 19558",f,t,t,f,89.0,0.89,0.0,0.0,f,f,f,,1.8,110791.0,100,40.0,f,f, Local-gov,f,t,f,t,f,f,,t,f,SVI,12.0,f, Adm-clerical,f,?,f
+4,Melvin Ramirez,"4264 Amy Mountains Apt. 150
+Allenside, WA 20613",f,t,t,f,109.0,0.78,0.0,0.0,f,f,f,2.1,1.2,136094.0,140,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,900.0,f, Handlers-cleaners,f,?,f
+5,Mary Vaccaro,"86807 Lewis Cape Suite 603
+Linland, WA 87265",t,t,t,f,139.0,1.34,0.0,0.0,f,t,f,0.025,3.7,227669.0,104,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Machine-op-inspct,f,?,t
+6,Elsa Phillips,"2668 Stephanie Lakes Apt. 101
+East Sherriborough, PA 92036",f,f,f,f,,,0.0,0.0,f,f,f,,,96219.0,?,45.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",f,f,other,13.0,f, Adm-clerical,f,?,f
+7,Janice Zediker,"87512 James Fords
+North Amandastad, TN 80363",f,f,f,f,,,0.0,0.0,f,,f,,,149770.0,?,40.0,t,f, Private,f,f,f,f,f,f,"White|United-States
+Masters -- Never-married|Unmarried",f,f,other,,f,,f,?,f
+8,Mary Butler,"505 Lopez Groves
+East Shawnberg, NE 53144",f,t,t,f,99.0,1.02,0.0,0.0,f,f,f,1.4,2.0,180733.0,97,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Never-married|Not-in-family",t,f,SVHC,14.0,f, Other-service,f,?,f
+9,Kim Marchese,"341 Andrew Mountain
+Port Bradleyville, WV 65216",f,t,t,f,125.0,0.84,0.0,0.0,f,f,f,0.5,,161226.0,149,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",f,f,other,9.0,f, Other-service,f,?,f
+10,Stuart Kelley,"PSC 3473, Box 9378
+APO AA 86697",f,t,t,f,85.0,1.1,1669.0,0.0,f,f,f,0.78,1.9,224566.0,77,45.0,F,f, Private,f,t,t,t,f,f,"White|United-States
+Assoc-acdm -- Never-married|Not-in-family",t,f,SVI,12.0,f, Prof-specialty,f,?,f
+11,Stephen Wood,"USNV Le
+FPO AE 88629",f,t,t,f,120.0,0.98,0.0,0.0,f,f,f,1.0,2.4,410240.0,123,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVHC,9.0,f, Craft-repair,f,?,f
+12,David Killingsworth,"740 Jasmine Underpass
+North Daniel, OR 01980",f,t,t,f,112.0,1.05,0.0,0.0,f,f,f,3.7,1.7,242720.0,107,35.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,SVI,14.0,f, Prof-specialty,f,?,f
+13,Lois Gonzalez,"70675 Simmons Corners
+Danielport, WI 53094",f,t,t,f,101.0,0.9,0.0,0.0,f,f,f,2.4,,345277.0,113,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Not-in-family",f,f,other,13.0,f, Prof-specialty,f,?,f
+14,Joseph Polk,"387 Stephanie Stream Apt. 688
+Sheppardbury, NY 32786",f,t,t,f,125.0,1.13,0.0,0.0,f,f,f,2.6,3.0,141558.0,111,60.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,SVHC,,t, Prof-specialty,f,?,f
+15,Sharon Mcgill,"29280 Michael Pine
+Abigailborough, WA 19558",f,t,t,f,89.0,0.89,0.0,0.0,f,f,f,0.25,1.8,110791.0,100,40.0,f,f, Local-gov,f,t,,t,f,f,,t,f,SVI,,f, Adm-clerical,f,?,f
+16,Charles Deutsch,"1165 Erica Crescent Suite 096
+Ricardofort, MT 74736",f,f,f,f,,,0.0,0.0,f,f,f,,,163003.0,,40.0,f,f, Private,f,f,f,f,f,f,"Asian-Pac-Islander|Philippines
+Assoc-acdm -- Never-married|Other-relative",f,f,,12.0,, Prof-specialty,f,?,f
+17,Robert Osborn,"67550 Lozano Trail
+North Anthonyside, DC 06440",f,t,t,f,103.0,0.89,0.0,0.0,f,f,f,1.4,1.8,29444.0,115,40.0,f,f, Private,f,t,f,t,f,f,"Amer-Indian-Eskimo|United-States
+HS_grad -- Married-civ-spouse|Husband",t,f,other,900.0,f, Handlers-cleaners,f,?,f
+18,Brian Batson,"36279 Solomon Walks
+South Spencerstad, WV 92102",f,t,t,f,89.0,0.91,1848.0,0.0,f,f,f,1.3,2.7,204277.0,99,48.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHC,9.0,t, Machine-op-inspct,f,?,f
+19,Elizabeth Bozell,"129 Brock Fork
+West Tony, CA 50552",f,t,t,f,143.0,1.33,0.0,0.0,f,f,f,0.25,3.0,182388.0,108,35.0,F,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,SVHC,9.0,f, Other-service,f,?,f
+20,Eva Roundtree,"1659 Davis Greens Apt. 910
+West Travisfurt, MI 45117",f,t,t,f,96.0,0.86,0.0,0.0,f,f,f,,2.0,328060.0,112,40.0,f,f, Private,f,t,f,f,f,f,"Other|Mexico
+9th -- Separated|Unmarried",t,f,other,5.0,f, Other-service,f,?,f
+21,Lynda Hill,"215 Thompson Pine
+Robertsonton, ID 93568",f,t,t,f,121.0,1.29,0.0,0.0,f,f,f,2.3,2.5,225291.0,94,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVHC,-1000.0,f, Adm-clerical,f,?,f
+22,Ashley Carroll,"3823 Allison Corners
+West Timothy, VA 50566",f,f,f,f,,,0.0,0.0,f,f,f,,,251854.0,?,40.0,f,f, Private,f,f,f,f,f,f,"Black|Jamaica
+Some-college -- Never-married|Not-in-family",f,f,other,10.0,f, Adm-clerical,f,?,f
+23,Mark Lind,"659 Cynthia Road Suite 874
+New Gregory, OR 21264",f,t,t,f,74.0,0.85,0.0,0.0,f,f,f,0.3,0.8,75742.0,87,40.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Machine-op-inspct,f,?,f
+24,Joyce Hubley,"36683 Ortega Village
+Dianahaven, MN 13847",f,t,t,f,147.0,0.95,0.0,0.0,t,f,f,1.1,,178215.0,154,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+9th -- Married-civ-spouse|Wife",f,f,STMW,5.0,f, Machine-op-inspct,f,?,f
+25,Melinda Smith,"7007 Banks Manors Suite 731
+West Dianamouth, NE 91192",f,t,t,f,105.0,0.97,0.0,0.0,f,f,f,0.2,,140117.0,108,20.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Some_college -- Never-married|Not-in-family",f,f,other,-1000.0,f, Other-service,f,?,f
+26,Theodora Shropshire,"59801 Cox Extensions Suite 593
+North Johnberg, MS 75654",f,t,t,f,106.0,1.31,0.0,0.0,t,t,f,13.0,1.3,182687.0,82,45.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,,10.0,f, ?,f,?,
+27,Dean Moriarty,"2373 Nicole Mills Apt. 786
+East Amyport, GA 87920",f,t,t,f,83.0,0.96,0.0,0.0,t,f,f,2.1,2.0,258037.0,87,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|Cuba
+HS-grad -- Married-civ-spouse|Husband",t,f,SVI,,f, Craft-repair,f,?,f
+28,Chris Prior,"38946 Quinn Club
+East David, TX 55594",f,t,t,f,93.0,0.87,0.0,0.0,f,f,f,0.005,2.2,349986.0,107,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Married-spouse-absent|Not-in-family",t,f,other,11.0,f, Prof-specialty,f,?,f
+29,Donna Flory,"0308 Meghan Lane Suite 704
+Avilaside, VA 19547",f,t,t,f,122.0,1.17,0.0,0.0,f,f,f,0.43,2.2,188119.0,104,40.0,f,t, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, Handlers-cleaners,f,?,f
+30,Stacie Crum,"7611 Martin Springs
+Fisherburgh, LA 13369",f,t,,f,160.0,1.51,0.0,0.0,,f,f,0.2,2.8,143699.0,106,15.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,t,STMW,9.0,f, Sales,f,?,f
+31,Belinda Anderson,"7493 Spencer Ridges Apt. 578
+New William, AK 11193",f,t,t,f,,0.66,2205.0,0.0,f,,f,,,155603.0,206,40.0,f,, Private,f,t,f,t,f,f,,f,,,10.0,f, Other-service,f,?,f
+32,Samantha Scavone,"849 Shane Rue
+New Taylorside, ME 04880",f,t,t,f,89.0,1.1,0.0,0.0,f,f,f,,,110279.0,81,35.0,F,f, Private,f,t,t,f,f,f,"Black|United-States
+Assoc-acdm -- Divorced|Unmarried",f,f,other,12.0,f, Prof-specialty,f,?,f
+33,Joyce Pickert,"628 Young Isle Apt. 726
+North Chad, VA 24968",t,t,t,f,148.0,1.42,0.0,0.0,f,f,f,2.3,3.6,202366.0,104,32.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",t,f,other,9.0,f, ?,f,?,f
+34,Lois Whitten,"07274 Tammy Cliffs Apt. 958
+Wilsonmouth, SD 86322",f,t,t,f,99.0,0.96,0.0,0.0,f,f,f,,2.0,47247.0,104,40.0,f,f, Private,f,t,f,f,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,other,10.0,f, Adm-clerical,f,?,f
+35,Jannette Stone,"5469 Chris Ridges Suite 985
+Mitchelltown, PA 78732",t,t,t,t,104.0,1.07,0.0,0.0,f,f,f,7.9,2.2,303032.0,97,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Unmarried",t,f,SVHC,10.0,f, Other-service,f,?,f
+36,Kenneth Lopez,"20682 Patel Way Apt. 694
+Williamport, IA 34377",f,t,t,f,113.0,0.97,0.0,0.0,f,f,f,0.6,1.5,207202.0,117,48.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Machine-op-inspct,f,?,f
+37,Rebecca Helmes,"58957 Chad Squares
+New Juanport, OK 97895",f,t,t,f,97.0,0.91,0.0,0.0,f,f,f,2.8,1.7,127601.0,107,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,SVI,10.0,f, Handlers-cleaners,f,?,f
+38,Mark Kilpatrick,"4360 Chandler Fords Suite 739
+East Angelfort, VT 57774",,t,t,,88.0,0.72,,4386.0,f,f,f,4.3,,110643.0,,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",f,f,SVI,-1400.0,f, Adm-clerical,f,?,f
+39,Wayne Payne,"88827 Christopher Lake Apt. 813
+East Alexandra, MD 11688",f,f,f,f,,,0.0,0.0,f,t,f,,,254304.0,?,38.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+10th -- Divorced|Not-in-family",f,f,other,6.0,f, Craft-repair,f,?,f
+40,Kimberly Jones,"07262 Haney Locks
+Port Thomaschester, MA 79934",f,f,f,f,164.0,,0.0,0.0,f,t,f,0.97,2.0,219815.0,?,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-spouse-absent|Unmarried",t,f,other,10.0,f, Adm-clerical,f,?,f
+41,Helen Perry,"USCGC Allen
+FPO AP 11097",t,,t,f,171.0,1.13,0.0,0.0,f,f,f,0.03,3.8,,151,40.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Never-married|Unmarried",t,f,other,11.0,f, Exec-managerial,f,?,f
+42,Gail Smallwood,"18022 Sanchez Gateway
+West Brooke, IL 79576",f,t,t,f,96.0,1.1,0.0,0.0,f,f,f,3.6,2.0,328561.0,88,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Married-civ-spouse|Other-relative",t,f,other,11.0,f, Adm-clerical,f,?,f
+43,Virginia Wexler,"00342 Barnes Valleys Apt. 718
+New Thomasmouth, IL 16617",f,t,t,f,86.0,0.91,0.0,0.0,f,f,f,3.7,,212143.0,95,20.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Wife",f,f,other,13.0,f, Adm-clerical,f,?,f
+44,James Kennedy,"126 Micheal Stravenue Suite 078
+Stevenhaven, NH 30940",f,t,t,f,102.0,0.82,0.0,0.0,f,f,f,0.25,1.8,144750.0,124,18.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Adm-clerical,f,?,f
+45,Charles Rieger,"0267 Johnson Drives Suite 684
+Phamville, SD 88257",f,t,t,f,89.0,0.91,0.0,0.0,f,f,f,5.7,1.6,282202.0,98,40.0,f,f, Private,f,t,f,t,f,f,"White|El-Salvador
+HS-grad -- Never-married|Unmarried",t,f,other,9.0,f, Other-service,f,?,f
+46,Joseph Greenfeld,"2025 Rogers Neck
+Christinechester, NE 69713",f,t,t,f,101.0,0.86,0.0,0.0,f,f,f,0.5,,180342.0,117,40.0,FALSE,f, Private,f,t,f,t,f,t,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",f,f,other,13.0,f, Adm-clerical,f,?,f
+47,Kelly Pounds,"1365 Justin Lodge Apt. 633
+East Justin, UT 86071",f,t,t,f,61.0,0.77,0.0,0.0,f,f,f,2.0,1.0,295991.0,80,20.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+10th -- Never-married|Own-child",t,f,SVI,6.0,f, Adm-clerical,f,?,f
+48,Michael Green,"7479 Davis Spur Suite 237
+Reneeview, NH 53880",f,t,t,f,82.0,0.74,0.0,0.0,f,f,f,3.6,0.6,137815.0,110,60.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVI,9.0,t, Transport-moving,f,?,f
+49,Johnathan White,"52110 Ryan Corner Suite 169
+North Aaron, IL 50417",f,t,t,f,98.0,0.99,0.0,0.0,f,f,f,0.7,2.1,112507.0,100,60.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+10th -- Married-civ-spouse|Husband",t,f,SVI,6.0,f, Transport-moving,f,?,f
+50,Claude Preston,"147 Rivera Trail
+East Mary, AK 42075",f,t,t,f,123.0,1.09,0.0,15024.0,f,f,f,2.2,1.6,54190.0,113,40.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|United-States
+Prof-school -- Married-civ-spouse|Husband",t,f,SVI,15.0,f, Prof-specialty,f,?,f
+51,Myrna Chapa,"3439 Murphy Knoll Apt. 594
+Bartonland, UT 99479",f,t,t,f,142.0,1.77,0.0,0.0,f,f,f,0.1,3.1,119506.0,80,15.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,STMW,9.0,f, Other-service,f,?,t
+52,Thomas Winters,"39033 Peterson Ways Suite 476
+Justinmouth, AL 06027",f,t,t,f,110.0,1.1,0.0,0.0,f,f,f,2.7,2.8,209641.0,100,32.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Other-service,f,?,f
+53,Adrian Carvalho,"9739 Sarah Ridge Suite 799
+Lewismouth, WI 02754",f,t,t,f,93.0,0.97,1977.0,0.0,f,f,f,5.1,,90730.0,95,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",f,f,other,13.0,f, Prof-specialty,f,?,f
+54,Virginia France,"USNS Miller
+FPO AE 19135",f,t,t,f,85.0,0.92,0.0,4865.0,f,f,f,1.8,1.8,123147.0,92,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVHC,,f, Tech-support,f,?,f
+55,Rueben Briceno,"54327 Warner Plaza
+North Ianside, NC 99945",f,t,t,f,101.0,0.9,0.0,0.0,f,f,f,0.3,1.2,113838.0,112,99.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,SVI,1000.0,f, Protective-serv,f,?,f
+56,Larry Menken,"533 Brown Lodge Apt. 041
+Bautistaport, WV 10858",f,t,t,f,79.0,0.87,0.0,0.0,f,f,f,2.0,2.1,154035.0,91,32.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Widowed|Other-relative",t,f,SVHC,-900.0,f, Handlers-cleaners,f,?,f
+57,Alicia Levey,"8165 Williamson Crest Apt. 880
+Millerbury, NH 66954",f,t,t,f,127.0,1.05,0.0,0.0,f,t,f,8.5,,182276.0,121,25.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",f,f,other,9.0,f, Other-service,f,?,f
+58,Anna Dougherty,"84276 Gibson Creek Apt. 341
+North Kathryn, WI 55893",f,f,f,f,,,0.0,0.0,f,f,f,6.7,,425447.0,?,40.0,f,f, ?,f,f,f,t,f,f,"Black|United-States
+HS_grad -- Never-married|Unmarried",f,f,STMW,9.0,f, ?,f,?,f
+59,Brenda Bennett,"54243 Gross Crossing Suite 416
+Mariastad, KY 40915",f,t,t,f,101.0,0.84,0.0,0.0,f,f,t,0.005,2.7,185079.0,121,50.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Exec-managerial,f,?,f
+60,Dona Buchmann,"22875 Sara Fort
+Robinfurt, SD 99029",f,t,t,f,96.0,0.82,0.0,0.0,f,f,f,2.7,2.8,124242.0,118,40.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, ?,f,?,f
+61,Dorothy Decelles,"4747 Wu Islands
+South Michaelberg, ME 66159",t,t,t,f,130.0,1.11,0.0,0.0,f,f,f,3.9,2.1,171748.0,116,24.0,F,f, ?,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Own-child",t,f,SVHD,1000.0,f, ?,f,?,f
+62,Elizabeth Waters,"09722 Elizabeth Track Apt. 483
+Moorestad, MD 89835",f,t,t,f,112.0,1.15,0.0,0.0,f,f,f,2.6,,315291.0,97,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Bachelors -- Never-married|Other-relative",f,f,other,13.0,f, Adm-clerical,f,?,f
+63,Lavonne Wade,"PSC 5912, Box 5383
+APO AE 87704",f,t,t,f,75.0,0.87,0.0,0.0,f,f,f,1.8,,220066.0,86,50.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Never-married|Not-in-family",f,f,other,1400.0,f, Prof-specialty,f,?,f
+64,Mary Knowles,"895 Danielle Club Apt. 006
+New Christinaborough, IL 46765",f,t,t,f,133.0,0.84,0.0,4934.0,f,f,f,0.08,,118486.0,158,32.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Separated|Unmarried",f,f,other,13.0,f, Prof-specialty,f,?,f
+65,Jonathan Mildon,"295 Morgan Harbor
+East Kiara, MN 09249",f,t,t,f,109.0,1.03,0.0,0.0,f,f,f,0.2,1.9,328518.0,106,30.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Never-married|Other-relative",t,f,SVI,-1100.0,f, Prof-specialty,f,?,f
+66,Jonathan Johnson,"32846 Moreno Highway
+Lynchmouth, CA 56829",f,t,t,f,99.0,0.86,0.0,0.0,f,f,f,0.3,2.2,86505.0,115,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVI,9.0,f, Tech-support,f,?,f
+67,Dorthy Bell,"7339 Isaac Cove
+West Sheila, NJ 73943",f,t,t,f,88.0,1.05,0.0,0.0,f,f,f,2.3,,174478.0,83,40.0,f,f,,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",f,f,other,9.0,f, Other-service,f,?,f
+68,Beau Callaghan,"149 Vasquez Turnpike
+New Jameshaven, CT 22734",f,t,t,f,94.0,0.97,0.0,0.0,f,f,f,4.4,1.7,287701.0,97,48.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+11th -- Married-civ-spouse|Husband",t,f,other,7.0,f, Handlers-cleaners,f,?,f
+69,Ginger Hays,"1217 Jonathan Overpass Apt. 494
+Curtismouth, FL 79106",t,t,t,f,121.0,1.02,0.0,0.0,f,f,f,1.2,2.2,221661.0,118,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,other,9.0,f, Sales,f,?,f
+70,Thomas Anthony,"4512 Dudley Mews Apt. 991
+Port Kimberly, DE 36770",f,t,t,f,124.0,1.15,0.0,0.0,t,f,f,0.2,2.5,,108,40.0,f,f,,f,t,,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,,9.0,f, Exec-managerial,,?,f
+71,Andrea Dixon,"USCGC Kelly
+FPO AA 32479",f,t,t,f,120.0,0.91,0.0,0.0,f,f,f,0.63,1.8,111268.0,132,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Divorced|Unmarried",t,f,other,12.0,f, Sales,f,?,f
+72,Clara Miller,"22194 Padilla Valley
+Burgesstown, MN 71991",f,f,f,f,94.0,,0.0,0.0,f,f,f,0.89,2.0,204057.0,?,40.0,F,f, Private,f,t,f,t,f,f,"White|Germany
+Bachelors -- Divorced|Unmarried",t,f,other,13.0,f, Adm-clerical,f,?,f
+73,James Thomas,"4228 Manuel Ville
+Montgomerytown, OH 91350",f,f,f,f,,,0.0,0.0,f,f,f,12.0,2.0,167350.0,?,30.0,f,f, Private,f,f,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Other-relative",t,f,other,,f, Other-service,f,?,f
+74,Kristine Right,"8356 Wright Road
+Mccarthyton, NJ 02696",f,t,t,f,84.0,0.87,0.0,0.0,f,f,f,3.2,0.9,261725.0,96,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,SVI,13.0,f, Adm-clerical,f,?,f
+75,Robert Perez,"82678 Daniels Loop Suite 471
+Mitchellmouth, NY 59233",f,t,t,f,60.0,0.65,0.0,0.0,f,f,f,,1.6,417419.0,92,40.0,f,f, Private,f,t,f,f,f,f,"White|United-States
+7th-8th -- Divorced|Own-child",t,f,other,4.0,f, Machine-op-inspct,f,?,f
+76,Nancy Manuel,"56922 Robert Views
+Jessicaville, NM 69116",f,t,t,f,134.0,0.99,0.0,0.0,f,f,f,2.0,2.6,270151.0,136,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,SVI,13.0,f, Sales,f,?,f
+77,Paula Fore,"06835 Jeffrey Stravenue
+Johnborough, NV 71153",f,t,t,f,169.0,1.21,0.0,0.0,f,f,f,0.05,3.1,85272.0,140,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Married-civ-spouse|Wife",t,f,STMW,12.0,f, Prof-specialty,f,?,f
+78,Jesse Moore,"7809 Trevino Mill Suite 548
+Perryton, MI 26274",f,t,t,f,99.0,0.79,0.0,0.0,f,f,f,2.2,2.3,106951.0,125,42.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVHC,9.0,t, Handlers-cleaners,f,?,f
+79,Ronnie Campbell,"36053 Mccall Place Suite 840
+Lisaville, NH 08931",f,f,f,f,,,0.0,0.0,f,f,f,,1.6,76714.0,?,55.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Prof_school -- Never-married|Not-in-family",t,f,other,,f, Prof-specialty,f,?,f
+80,Dale Dunn,"99618 Arias Crossroad
+Abbottfort, PA 74535",f,t,t,f,121.0,1.17,0.0,7688.0,f,f,f,2.7,2.7,423222.0,104,40.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,SVHC,13.0,t, Exec-managerial,f,?,f
+81,Benjamin Corns,"54756 Delgado Plain
+Odomberg, TX 52725",f,t,t,f,98.0,0.85,0.0,0.0,f,f,f,0.1,2.3,102476.0,115,25.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Own-child",t,f,SVHC,13.0,t, Adm-clerical,f,?,f
+82,Elizabeth Killian,"28498 William Lane Apt. 462
+Jefferyland, OR 22266",f,t,t,f,158.0,1.59,0.0,0.0,f,f,f,0.04,3.5,192149.0,100,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Own-child",t,f,STMW,,f, Adm-clerical,f,?,f
+83,Patricia Osmun,"64459 Jonathan Terrace
+Fernandezhaven, MO 10116",f,t,t,f,92.0,0.95,0.0,0.0,f,f,f,2.3,2.3,175255.0,97,35.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,SVI,9.0,f, Other-service,f,?,f
+84,Cecil Vancleave,"5517 Burns Via
+New Dylanberg, AZ 98011",f,t,t,f,162.0,1.15,0.0,0.0,t,f,f,36.0,4.5,174040.0,142,40.0,f,f, Federal-gov,f,t,f,t,f,f,"Black|United-States
+Some-college -- Separated|Not-in-family",t,f,STMW,10.0,f, Craft-repair,f,?,f
+85,Stacy White,"158 May Well
+Nicholasport, AZ 71139",f,t,t,f,120.0,1.24,0.0,0.0,f,f,f,0.9,2.6,110151.0,96,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Divorced|Unmarried",t,f,other,11.0,f, Exec-managerial,f,?,f
+86,Agustina Demar,"155 Jamie Ports
+Joshuaville, VT 23474",f,t,t,f,100.0,1.09,0.0,0.0,f,f,f,,,179731.0,91,35.0,f,f, Private,f,t,f,f,f,f,"White|United-States
+HS-grad -- Never-married|Unmarried",f,f,other,9.0,f, Other-service,f,?,f
+87,Deborah Davison,"87368 Hall Tunnel
+Ingramstad, VT 79832",f,t,t,f,146.0,1.34,0.0,0.0,f,f,f,1.8,2.3,346766.0,108,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, Handlers-cleaners,f,?,f
+88,Rhonda Bolebruch,"84921 Erin Skyway
+Adkinsfort, MS 07838",t,t,t,f,104.0,1.06,0.0,0.0,f,f,f,8.3,2.1,210355.0,97,24.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+11th -- Never-married|Not-in-family",t,f,other,7.0,f, Prof-specialty,f,?,f
+89,Denise Getz,"181 Lopez Forges
+East Michael, PA 95179",f,t,t,f,111.0,1.04,0.0,0.0,f,f,f,1.3,0.9,137678.0,107,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",t,f,SVI,,f, Adm-clerical,f,?,f
+90,Paul Picard,"Unit 8840 Box 0293
+DPO AA 91549",f,t,t,f,58.0,0.68,0.0,0.0,f,f,f,2.0,0.4,203488.0,85,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,SVI,10.0,f, Transport-moving,f,?,f
+91,Melba Johnson,"82640 Jason Fords Suite 510
+Jennifermouth, WV 96372",f,t,t,f,136.0,0.9,0.0,0.0,f,f,f,0.78,1.9,216137.0,152,8.0,T,f, Private,f,t,f,t,f,f,"White|United-States
+11th -- Never-married|Own-child",t,f,SVI,7.0,f, Sales,f,?,f
+92,Willie Brand,"658 Jackson Pines Apt. 979
+Wilsonberg, GA 13292",f,t,t,f,118.0,1.04,0.0,0.0,f,f,f,,,89477.0,112,14.0,F,f, Self-emp-not-inc,f,t,f,f,f,f,"White|United-States
+Some-college -- Widowed|Not-in-family",f,f,other,,f, Farming-fishing,f,?,f
+93,Marian Caplinger,"987 Frazier Mill
+Lake Donaldfurt, MD 05861",f,t,t,f,81.0,0.9,0.0,0.0,f,f,f,0.25,2.2,284952.0,90,43.0,f,f, Private,f,t,f,t,f,f,"White|Italy
+10th -- Separated|Unmarried",t,f,SVI,6.0,f, Sales,f,?,f
+94,Jonathan Pineda,"PSC 9268, Box 0191
+APO AP 93893",t,t,t,f,136.0,1.19,0.0,0.0,,f,f,0.65,1.3,98283.0,115,40.0,,f, Private,f,t,f,,f,f,"Asian-Pac-Islander|United-States
+Bachelors -- Never-married|Own-child",t,f,other,13.0,f, Exec-managerial,,?,f
+95,Catherine Gainer,"053 Salinas Lane Apt. 616
+Lake Melissaville, NV 90609",f,t,t,f,113.0,0.91,0.0,0.0,f,f,t,0.1,,243986.0,125,20.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Some_college -- Never-married|Own-child",f,f,other,10.0,f, Prof-specialty,f,?,f
+96,Annette Thomas,"846 Michael Well Apt. 552
+Smithport, MA 60003",f.8,t.3,t.4,f.9,125.0,1.14,0.0,0.0,f.7,f,f.11,1.3,2.5,240841.0,109,35.0,,f.5, Private,,t.2,f.10,t,f.12,f.1,"White|United-States
+7th-8th -- Divorced|Unmarried",t.1,,SVHC,,f.13, Other-service,f.14,?,f.4
+97,Marion Cooper,"298 Debbie Bypass
+North Jennifertown, DE 67347",f,t,t,f,180.0,1.3,0.0,0.0,f,f,f,2.1,2.3,274398.0,139,20.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Adm-clerical,f,?,f
+98,Angela Wortham,"5276 Theresa Landing
+Wardbury, ID 57327",f,f,f,f,87.0,,0.0,0.0,f,f,f,27.0,1.7,126399.0,?,32.0,F,t, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",t,f,other,-900.0,f, Sales,f,?,f
+99,Rhonda Wentz,"6550 Young Corners Suite 282
+Ashleyshire, NC 74704",f,t,t,f,92.0,0.98,0.0,0.0,f,f,f,1.2,1.7,353270.0,94,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Never-married|Own-child",t,f,other,11.0,f, Craft-repair,f,?,f
+100,Robert Lamm,"67727 Adam Inlet
+Williamsland, DC 68151",f,t,t,f,109.0,0.97,0.0,7298.0,f,f,f,1.5,1.8,180779.0,112,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,other,13.0,f, Prof-specialty,f,?,f
+101,Brittney Peters,"099 Sullivan Via Suite 694
+Karimouth, NC 22783",f,t,t,f,105.0,1.09,0.0,0.0,t,f,f,0.9,2.2,122272.0,96,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some_college -- Never-married|Own-child",t,f,other,-1000.0,f, Adm-clerical,f,?,f
+102,Shirley Rhein,"010 Burton Land Apt. 115
+East Katherineland, WI 75660",f,t,t,f,114.0,1.17,0.0,0.0,t,t,f,3.9,,237532.0,97,54.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"Black|Dominican-Republic
+HS-grad -- Married-civ-spouse|Wife",f,f,other,9.0,f, Sales,f,?,f
+103,Lisa Bauer,"04555 Peter Squares
+West Jeff, MI 82657",f,t,t,f,109.0,1.06,0.0,0.0,f,f,f,12.0,1.8,198000.0,102,38.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Unmarried",t,f,other,,f, Craft-repair,f,?,f
+104,Mary Frazier,"43756 George Green Suite 992
+Haneymouth, SD 24393",f,t,t,f,194.0,0.97,0.0,0.0,f,f,f,0.73,,365110.0,200,20.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",f,f,STMW,13.0,f, Prof-specialty,f,?,f
+105,Inez Shaw,"254 Gilbert Plains
+Hodgesmouth, NH 64578",f,t,t,f,15.0,1.08,0.0,0.0,f,f,f,55.0,0.7,176486.0,14,36.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Never-married|Own-child",t,f,SVI,11.0,f, Adm-clerical,f,?,f
+106,Luetta Sease,"78180 Chad Shoal Suite 448
+Lake Michael, NE 98148",f,t,t,f,125.0,0.96,0.0,7298.0,f,t,f,0.25,2.9,33662.0,130,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Wife",t,f,other,14.0,f, Prof-specialty,f,?,f
+107,Christina Rogers,"PSC 1043, Box 6500
+APO AE 55471",f,t,t,f,123.0,1.14,0.0,0.0,f,f,f,0.83,2.4,130620.0,108,33.0,f,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|?
+12th -- Married-civ-spouse|Wife",t,f,SVI,8.0,f, Sales,f,?,f
+108,Michelle Lockhart,"70022 Johnson Cliffs
+New Conniemouth, CA 16100",f,f,f,f,75.0,,0.0,0.0,t,f,f,16.0,1.7,141272.0,?,30.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Bachelors -- Never-married|Own-child",t,f,other,13.0,f, Other-service,f,?,f
+109,Martin Powell,"38486 Kimberly Lights
+New Loretta, IN 55299",t,t,,f,86.0,0.75,0.0,0.0,f,f,f,0.37,2.2,401886.0,115,20.0,f,f, Local-gov,f,t,,t,f,f,"White|United-States
+HS-grad -- Never-married|Other-relative",t,f,other,9.0,f, Adm-clerical,f,?,f
+110,Joanne Elder,"44809 Cole Ramp Suite 824
+Dianaton, RI 59994",f,f,f,f,,,0.0,0.0,f,f,f,,,265509.0,?,32.0,f,f, Private,f,f,f,f,f,f,"Black|United-States
+Assoc-voc -- Separated|Unmarried",f,f,other,1100.0,f, Tech-support,f,?,f
+111,Susan Tarleton,"8276 Walker Street Apt. 862
+South Eugeneville, NJ 44896",f,t,t,f,112.0,0.83,0.0,0.0,f,t,f,0.045,,187119.0,134,70.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some_college -- Divorced|Not-in-family",f,f,other,10.0,f, Exec-managerial,f,?,f
+112,Derrick Lara,"86068 Stephanie Village
+Curryfort, PA 94076",f,t,t,f,92.0,0.88,0.0,0.0,f,f,f,1.0,1.4,107164.0,105,40.0,FALSE,f, State-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Separated|Own-child",t,f,SVI,10.0,f, Exec-managerial,f,?,f
+113,Cheryl Pontes,"06742 Ryan Bridge Apt. 664
+Laurenhaven, SD 86166",t,t,t,f,99.0,1.14,0.0,0.0,f,f,f,3.5,1.7,37933.0,87,48.0,f,f, Private,t,t,f,t,f,f,"Black|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Other-service,f,?,f
+114,Diane Watson,"798 Jennifer Estates Apt. 741
+Michaelmouth, OR 91359",f,t,t,f,108.0,0.88,0.0,0.0,f,f,f,0.2,2.2,179565.0,122,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,SVI,13.0,f, Adm-clerical,f,?,f
+115,Raymond Jones,"1760 Lopez Field
+Davidbury, MI 19957",f,t,t,f,99.0,0.92,0.0,0.0,f,f,f,1.1,1.6,195744.0,108,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Other-service,f,?,f
+116,Brenda Thompson,"PSC 0419, Box 4497
+APO AA 88664",f,f,f,f,130.0,,0.0,0.0,f,f,f,2.3,2.0,19914.0,?,40.0,f,f, Federal-gov,f,t,f,t,f,f,"Asian-Pac-Islander|Philippines
+Bachelors -- Married-civ-spouse|Wife",t,f,other,13.0,f, Adm-clerical,f,?,f
+117,Robert Simpson,"13305 David Creek Apt. 500
+Lake Ariana, MA 71665",f,t,t,f,88.0,0.98,0.0,0.0,f,f,f,,1.5,124971.0,90,,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, Sales,f,?,f
+118,Shirley Seneker,"20270 Gray Manors
+West Emily, UT 14334",f,t,t,f,101.0,0.9,0.0,2597.0,f,f,f,1.7,1.2,79870.0,112,40.0,t,f, Private,f,t,f,t,f,f,"White|Japan
+Some-college -- Married-civ-spouse|Own-child",t,f,other,10.0,f, Exec-managerial,f,?,f
+119,Scott Smith,"82295 Cooper Ports
+West Erika, CT 37575",f,t,t,f,79.0,0.86,0.0,0.0,f,f,f,2.0,2.5,166497.0,92,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Not-in-family",t,f,other,13.0,f, Craft-repair,f,?,f
+120,Tiffany Carr,"4946 Andrew Centers Apt. 048
+Caseyville, AL 34721",f,f,f,f,,,0.0,0.0,f,t,f,,,38251.0,?,35.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Assoc-acdm -- Never-married|Unmarried",f,f,other,12.0,f, Other-service,f,?,f
+121,Harry Kubica,"411 Buck Field Apt. 005
+Masseyville, WV 62454",t,t,t,f,97.0,0.98,0.0,0.0,f,f,f,1.7,1.5,54826.0,99,20.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Widowed|Not-in-family",t,f,other,11.0,f, Prof-specialty,f,?,f
+122,Raymond Archer,"2681 Smith Port
+Sanchezborough, WI 02839",f,t,t,f,110.0,1.01,0.0,0.0,f,f,f,0.005,2.3,210295.0,109,50.0,F,f, Self-emp-inc,t,t,f,t,f,f,"White|United-States
+11th -- Married-civ-spouse|Husband",t,f,other,-700.0,f, Craft-repair,f,?,f
+123,Marla Waid,"720 Brennan Meadow
+Dunnland, SC 38506",f,t,t,f,106.0,1.05,0.0,,f,f,f,0.6,2.0,82497.0,101,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVHC,10.0,f, Other-service,f,?,f
+124,Morgan Song,"5396 Pierce Grove Apt. 462
+New Justin, CA 86976",f,t,t,f,62.0,0.54,0.0,0.0,f,f,f,3.9,0.9,117683.0,115,40.0,t,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVI,9.0,f, Protective-serv,f,?,f
+125,Mary Seward,"89608 Rodriguez Plaza Apt. 682
+East Kathy, KS 10989",f,t,t,f,75.0,0.74,0.0,0.0,f,f,f,1.7,1.4,183168.0,101,43.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Unmarried",t,f,SVI,13.0,f, Prof-specialty,f,?,f
+126,Dorothy Harney,"64269 Christine Mountains
+Mejiastad, NV 62369",t,t,t,f,205.0,1.7,0.0,0.0,f,f,f,0.005,3.9,96176.0,121,20.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,t,STMW,10.0,f, Adm-clerical,f,?,t
+127,Lenora Vernon,"160 Mitchell Cove
+West Gina, NV 11566",f,t,t,f,181.0,1.11,0.0,0.0,f,t,f,0.12,2.3,196797.0,164,38.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Never-married|Unmarried",t,f,other,9.0,f, Transport-moving,f,?,f
+128,Betty Couchman,"5766 Timothy Plain
+Christianberg, AK 38055",t,t,t,f,84.0,0.9,0.0,0.0,f,f,f,1.2,,73054.0,94,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",f,f,other,9.0,f, Sales,f,?,f
+129,Charles Eisentrout,"58970 Patrick Plains Apt. 154
+Kimberlyville, MN 57194",f,t,t,f,90.0,1.02,0.0,3908.0,f,f,f,0.7,2.9,231043.0,88,45.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Married-civ-spouse|Husband",t,f,SVHC,11.0,f, Adm-clerical,f,?,f
+130,Alma Hatcher,"8802 Charles Squares Suite 681
+Smithton, OK 90076",f,t,t,f,164.0,1.09,0.0,0.0,f,t,f,0.065,2.2,53506.0,151,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Own-child",t,f,other,13.0,f, Craft-repair,f,?,f
+131,James Melton,"267 William Trafficway
+Terriburgh, TX 62247",t,t,t,f,89.0,1.1,0.0,0.0,f,t,f,0.3,2.6,184378.0,81,60.0,F,, Private,t,t,f,t,f,f,"White|Puerto-Rico
+Some-college -- Married-civ-spouse|Husband",t,f,other,10.0,f, Sales,f,?,f
+132,Nelson Bartz,"031 April Streets Suite 895
+Sandersstad, LA 70778",f,f,f,f,96.0,,0.0,0.0,f,f,f,2.1,1.7,95949.0,?,50.0,F,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,other,13.0,f, Craft-repair,f,?,f
+133,Jessie Roberts,"18427 Peters Haven
+Port Rodneyland, OK 25298",f,f,f,f,22.0,,0.0,0.0,f,f,f,0.015,4.8,127961.0,?,45.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,SVI,10.0,f, Machine-op-inspct,f,?,f
+134,Karla Campbell,"9134 Anderson Bridge
+New Brianfort, PA 68993",f,t,t,f,120.0,0.85,0.0,7298.0,f,f,f,1.6,2.2,279472.0,141,48.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,other,10.0,t, Machine-op-inspct,f,?,f
+135,Stacy Martinson,"57266 Eric Lane
+Laurenchester, UT 41836",f,t,t,f,162.0,1.21,0.0,0.0,f,f,f,1.1,2.6,130620.0,134,26.0,f,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|India
+Some_college -- Married-spouse-absent|Own-child",t,f,other,,f, Sales,f,?,f
+136,Betty Northey,"9165 Mark Mountain Suite 991
+Murphyside, MA 20124",f,t,t,f,187.0,1.74,0.0,0.0,f,f,f,0.2,3.2,37028.0,107,38.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",t,f,STMW,10.0,f, Sales,f,?,f
+137,Roger Watts,"00513 Timothy Meadows
+Armstrongstad, AK 52536",f,t,t,f,82.0,0.88,0.0,0.0,f,f,f,1.7,2.3,190403.0,93,60.0,f,f, Private,f,t,f,t,f,f,"White|Canada
+Some-college -- Separated|Not-in-family",t,f,STMW,10.0,f, Exec-managerial,f,?,f
+138,Casey Williams,"82237 Hardin Hill
+New Jessicaburgh, UT 21164",f,t,t,f,78.0,0.56,0.0,0.0,f,f,f,2.4,0.2,256979.0,139,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Other-relative",t,f,SVI,,f, Craft-repair,f,?,f
+139,Roger Summers,"4224 Beverly Road
+South Andreastad, NE 72543",f,f,f,f,,,0.0,0.0,f,f,f,,2.2,120172.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,other,13.0,f, Exec-managerial,f,?,f
+140,Cynthia Dials,"01004 Lori Pass Suite 048
+Reneeside, NE 58076",f,t,t,f,104.0,1.05,0.0,0.0,f,f,f,0.03,1.5,240612.0,,10.0,f,t,,f,t,f,t,f,f,"White|United-States
+HS_grad -- Married-spouse-absent|Unmarried",t,f,other,9.0,f, Exec-managerial,,?,f
+141,Peggy Mack,"49068 Arellano Parks Suite 631
+North Joshuastad, IN 54508",f,t,t,f,109.0,0.83,0.0,0.0,f,f,f,5.4,1.4,115070.0,131,40.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,1000.0,f, Adm-clerical,f,?,f
+142,Mandy Sylvester,"9189 Johnson Manor Apt. 857
+West Alyssa, SD 50581",f,t,t,f,117.0,0.98,0.0,0.0,f,t,f,0.1,,399155.0,120,40.0,f,f, Federal-gov,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Never-married|Own-child",f,f,other,9.0,f, Craft-repair,f,?,f
+143,Maricela Mcaninch,"64064 Gardner Extension
+West Erikatown, DE 34160",f,t,t,f,159.0,1.51,0.0,0.0,f,f,f,7.8,2.0,123325.0,105,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Prof-school -- Widowed|Not-in-family",t,f,other,1500.0,f, Prof-specialty,f,?,f
+144,April Brown,"6774 Victoria Flats
+Martinezborough, PA 81260",f,t,t,f,120.0,1.11,0.0,0.0,f,t,f,6.3,1.3,109005.0,109,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,1000.0,f, Prof-specialty,f,?,f
+145,Flora Mcgee,"097 Angela Rapids Suite 716
+West Brittanyshire, NH 92537",f,t,t,f,32.0,0.53,0.0,0.0,f,f,f,0.1,0.3,147884.0,60,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Never-married|Own-child",t,f,SVI,9.0,f, Adm-clerical,f,?,f
+146,Ann Thomas,"42207 Michele Mills Suite 883
+Sanchezfurt, IA 27323",f,t,t,f,60.0,0.77,0.0,0.0,f,f,,5.0,1.7,102723.0,,40.0,f,f, Private,f,t,f,t,f,f,,t,f,other,,f, Adm-clerical,,?,f
+147,Alice Pritt,"PSC 0179, Box 7685
+APO AP 51870",f,t,t,f,76.0,0.88,0.0,0.0,f,f,f,2.7,1.5,245302.0,86,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Divorced|Own-child",t,f,SVHC,1000.0,t, Sales,f,?,f
+148,Elisa Hardy,"9886 David Neck Apt. 108
+Lake Tyler, WV 15076",f,t,t,f,118.0,1.19,0.0,0.0,f,f,f,2.9,2.6,352768.0,99,40.0,,f, Federal-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Own-child",t,f,other,9.0,f, Adm-clerical,f,?,f
+149,Sean Infante,"24208 Patrick Estates Apt. 222
+Kimfort, IL 75404",f,t,t,f,95.0,0.78,0.0,0.0,f,f,f,1.4,1.5,67317.0,122,60.0,F,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,SVI,13.0,f, Farming-fishing,f,?,f
+150,William Hammond,"679 Mendoza Plaza
+Josephfurt, WI 25570",f,t,t,f,104.0,1.01,0.0,0.0,f,t,f,3.3,2.7,140752.0,103,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Craft-repair,f,?,f
+151,Gina Patton,"2851 Robert Park Suite 652
+New Robert, MA 21074",f,t,t,f,84.0,0.86,0.0,0.0,f,f,f,0.92,2.1,156000.0,98,20.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+10th -- Widowed|Unmarried",t,f,other,6.0,f, Other-service,f,?,f
+152,James Butterfield,"3669 Matthew Highway Apt. 816
+Joseview, MD 39380",,f,f,f,105.0,,0.0,0.0,f,,f,1.5,1.8,294431.0,?,40.0,f,f, Federal-gov,f,t,f,t,,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,other,14.0,f, Prof-specialty,f,?,f
+153,Thomas Ramos,"8977 Elizabeth Street
+Ortizton, VA 67923",f,f,f,f,,,0.0,0.0,f,f,f,,,135102.0,?,65.0,f,f, Self-emp-not-inc,f,f,f,f,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",f,f,other,9.0,f, Transport-moving,f,?,f
+154,Karmen Green,"2574 Lisa Canyon
+South Benjamin, NE 79739",f,t,t,f,71.0,0.72,0.0,0.0,f,f,f,1.4,1.7,34996.0,99,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Separated|Unmarried",t,f,SVHC,9.0,f, Other-service,f,?,f
+155,Tara Myrick,"0618 Harper Trafficway Suite 647
+New Gloria, NH 21333",f,t,t,f,99.0,0.83,1741.0,0.0,f,f,f,1.6,2.8,191088.0,119,52.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,other,,f, Other-service,f,?,f
+156,Lisa Maguire,"9537 Andrew Lodge
+Kevinhaven, ID 94753",f,t,t,f,101.0,1.03,0.0,7688.0,f,f,f,0.88,2.2,183923.0,97,35.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Wife",t,f,SVI,14.0,f, Prof-specialty,f,?,f
+157,Kathy Secrist,"7761 Kyle Land
+South Jordanchester, KY 00543",f,t,t,f,151.0,1.05,0.0,0.0,f,t,f,,,297335.0,144,31.0,f,f, Private,f,t,f,f,f,f,"Asian-Pac-Islander|Laos
+Assoc_acdm -- Married-spouse-absent|Unmarried",f,f,other,12.0,f, Exec-managerial,f,?,f
+158,Jonathan Pineda,"PSC 9268, Box 0191
+APO AP 93893",,t,t,,136.0,1.19,0.0,0.0,f,f,,0.65,1.3,98283.0,115,40.0,f,f, Private,f,t,f,,f,,"Asian-Pac-Islander|United-States
+Bachelors -- Never-married|Own-child",t,f,other,13.0,f, Exec-managerial,,?,f
+159,Helen Perry,"USCGC Allen
+FPO AP 11097",t,t,t,f,171.0,1.13,0.0,0.0,f,f,f,,3.8,176684.0,151,,t,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Never-married|Unmarried",,f,other,11.0,f, Exec-managerial,,?,f
+160,Amanda Oliver,"08248 Joseph Road
+Lake Danielstad, MS 01092",f,t,t,f,103.0,0.92,0.0,0.0,f,f,f,2.6,1.6,240888.0,111,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Divorced|Unmarried",t,f,other,12.0,f, Adm-clerical,f,?,f
+161,Virginia Oconnell,"Unit 2432 Box 3382
+DPO AP 36056",f,t,t,f,85.0,0.95,0.0,0.0,f,f,f,2.2,,255835.0,90,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Other-relative",f,f,other,,f, Adm-clerical,f,?,f
+162,Latonya Wilhelm,"198 Burns Divide Apt. 670
+Molinafort, FL 07540",f,t,t,f,110.0,0.82,0.0,0.0,f,f,f,0.2,0.9,200603.0,134,30.0,t,f, Private,f,t,f,t,f,t,"White|United-States
+HS-grad -- Never-married|Other-relative",t,f,SVI,9.0,f, Adm-clerical,f,?,f
+163,Bill Lowrey,"45599 Middleton Throughway
+Thomasfort, AK 25696",f,t,t,f,111.0,0.95,0.0,0.0,f,f,f,1.6,2.1,160192.0,117,40.0,f,f, Private,f,t,f,t,,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Other-service,f,?,f
+164,Robert Simpson,"13305 David Creek Apt. 500
+Lake Ariana, MA 71665",f,t,t,,88.0,,0.0,,f,f,f,12.0,1.5,124971.0,90,38.0,f,f, Private,f,t,f,,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, Sales,f,?,f
+165,Patricia Pickett,"326 Thomas Loop Apt. 419
+Dawsonville, MT 12341",f,f,f,f,,,0.0,0.0,f,f,f,0.27,,219137.0,?,22.0,f,f, Private,f,f,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",f,f,other,9.0,f, Adm-clerical,f,?,f
+166,Jennifer Amorosi,"43433 Higgins Knolls
+East Morgan, SC 68069",f,t,t,f,72.0,0.95,0.0,0.0,f,t,f,116.0,0.7,126319.0,76,40.0,FALSE,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Wife",t,f,other,,f, Prof-specialty,f,?,f
+167,Annette Schuckert,"96553 Davis Mountain Apt. 604
+Samanthahaven, ME 16108",f,t,t,f,157.0,0.9,1887.0,0.0,f,f,f,0.2,1.8,396758.0,175,70.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Wife",t,f,other,13.0,f, Prof-specialty,f,?,f
+168,Frank Gerace,"01402 Wilson Ramp
+Lake Amberborough, IL 81663",f,t,t,f,116.0,0.9,0.0,0.0,f,f,f,,,33308.0,128,40.0,f,f, Self-emp-not-inc,f,t,f,f,f,t,"White|United-States
+HS-grad -- Never-married|Not-in-family",f,f,other,9.0,f, Craft-repair,f,?,f
+169,Sidney Cunningham,"USNS Roberts
+FPO AE 85867",f,f,f,f,73.0,,0.0,3103.0,f,f,f,0.7,0.9,71417.0,?,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Craft-repair,f,?,f
+170,Steven Phillips,"05182 Heather Forest
+Taylorton, UT 33956",f,t,t,f,65.0,0.63,1669.0,0.0,f,f,f,1.9,1.0,207537.0,105,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Own-child",t,f,SVI,9.0,f, Craft-repair,f,?,f
+171,Donna Sires,"219 Claudia Radial Apt. 741
+Port Rhonda, GA 48485",f,t,t,f,144.0,1.29,0.0,0.0,f,f,,6.8,,51111.0,111,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Widowed|Not-in-family",f,f,other,13.0,, Adm-clerical,f,?,f
+172,Catherine Hoffman,"37006 Danielle Pine
+Port Stevenchester, VA 96566",f,t,t,f,123.0,1.16,0.0,,f,f,f,1.9,,146651.0,107,15.0,f,f,,f,t,,t,f,f,"White|United-States
+HS_grad -- Married-civ-spouse|Own-child",f,f,other,,f, ?,f,?,f
+173,Loretta Merchant,"1627 Gonzales Village
+Williamsfort, NM 14758",f,t,t,t,108.0,1.12,0.0,0.0,f,f,f,4.4,2.6,145214.0,96,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,other,9.0,t, Adm-clerical,f,?,f
+174,Stephanie Oconnell,"5041 Jackson Mills Suite 269
+Lake Jacquelineland, RI 06446",f,t,t,f,117.0,0.95,0.0,0.0,f,f,f,0.3,2.1,204375.0,123,60.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Prof-school -- Never-married|Not-in-family",t,f,SVI,1500.0,f, Prof-specialty,f,?,f
+175,Bonnie Lay,"44850 Sonya Harbors Apt. 785
+Rossville, HI 92001",f,t,t,f,67.0,0.98,0.0,0.0,f,f,f,,,345006.0,68,45.0,f,f, Private,f,t,f,f,f,f,"White|Mexico
+Bachelors -- Never-married|Not-in-family",f,f,other,13.0,f, Prof-specialty,f,?,f
+176,Rose Broderick,"6095 Thompson Trafficway Suite 596
+Foxtown, NC 58021",f,f,f,f,,,0.0,0.0,f,f,f,,,222900.0,?,50.0,f,f, Local-gov,f,f,f,f,f,f,"White|United-States
+Bachelors -- Separated|Not-in-family",f,f,other,13.0,f, Prof-specialty,f,?,f
+177,Thomas Pierce,"2682 Munoz Islands Suite 469
+South Elizabethstad, FL 89447",f,t,t,f,120.0,1.01,0.0,7688.0,f,t,f,4.7,,119545.0,118,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Own-child",f,f,other,10.0,f, Exec-managerial,f,?,f
+178,Blanche Hall,"2160 Chavez Valley Apt. 831
+Port Zachary, TN 35847",f,t,t,f,99.0,1.04,0.0,0.0,f,t,f,0.35,2.5,39530.0,96,4.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,STMW,9.0,f, Other-service,f,?,f
+179,April Williams,"1019 Holly Roads Suite 611
+Aaronfort, AL 44692",f,t,t,f,98.0,0.8,0.0,0.0,t,f,f,4.8,0.6,81965.0,122,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Never-married|Not-in-family",t,f,SVI,,f, Tech-support,f,?,f
+180,Betty Keith,"677 Johnson Wells Apt. 815
+Kramerborough, WI 80409",f,t,t,f,63.0,1.2,,0.0,f,f,f,24.0,,,53,35.0,f,, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",f,f,other,9.0,f, Adm-clerical,,,f
+181,Tina Sholar,"89644 Eric Camp
+Elizabethfurt, DE 38778",f,t,t,f,103.0,,1590.0,0.0,f,f,f,0.89,1.8,188186.0,105,,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Divorced|Not-in-family",t,,SVI,14.0,t, Sales,f,,f
+182,Rickey Tellez,"14016 Mathew Path
+New Darlene, GA 15046",f,t,t,f,105.0,0.83,0.0,0.0,f,f,f,2.3,1.6,401623.0,127,40.0,f,f, Private,f,t,f,t,f,f,"Black|Jamaica
+Some-college -- Married-civ-spouse|Husband",t,f,SVI,10.0,f, Tech-support,f,?,f
+183,Hazel Joyce,"6531 Parker Rapid Apt. 336
+North Kathryn, KY 30047",f,t,t,f,88.0,0.95,0.0,0.0,f,f,f,1.9,2.0,135315.0,92,32.0,f,f, Private,f,t,f,t,f,f,"Other|United-States
+9th -- Never-married|Own-child",t,f,other,5.0,f, Sales,f,?,f
+184,Santos Young,"072 Lopez Isle Apt. 571
+Acevedoshire, ND 60693",f,t,t,f,193.0,1.33,0.0,0.0,f,f,f,0.83,,120910.0,144,35.0,f,, Private,,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Unmarried",f,f,other,-900.0,f, Other-service,f,?,f
+185,Elisa Hardy,"9886 David Neck Apt. 108
+Lake Tyler, WV 15076",f,t,t,,118.0,1.19,0.0,0.0,f,f,f,2.9,,352768.0,99,40.0,f,f, Federal-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Own-child",t,f,,9.0,f, Adm-clerical,,?,f
+186,Edith Sisk,"197 Jones Ville
+Maldonadofort, AZ 92660",f,t,t,f,103.0,0.93,0.0,0.0,f,f,t,0.85,2.0,201743.0,111,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Other-service,f,?,f
+187,Betty Robinson,"74157 Sullivan Fall
+Chaseshire, MS 47381",f,t,t,f,118.0,1.52,0.0,0.0,f,f,f,0.02,2.9,128700.0,78,40.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,other,9.0,f, ?,f,?,f
+188,Judy Lynn,"455 Hamilton Groves
+West Michael, UT 60328",f,t,t,f,111.0,1.0,0.0,0.0,f,f,f,4.7,,34616.0,112,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",f,f,other,10.0,f, Sales,f,?,f
+189,James Hart,"2902 Harmon Track Apt. 666
+Adamsville, DC 95298",f,,t,f,91.0,0.83,0.0,0.0,f,f,f,1.0,0.7,131298.0,110,60.0,f,, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVI,,f, Other-service,,?,f
+190,Elvira Graham,"12283 Zachary Green
+Liutown, LA 23769",f,t,t,f,129.0,1.14,0.0,0.0,f,f,f,0.22,2.4,80680.0,113,16.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Own-child",t,f,other,,f, Sales,f,?,f
+191,Rosa Binkley,"8891 Jacqueline Rapids Apt. 224
+East John, AR 19977",f,t,t,f,151.0,1.97,0.0,0.0,f,f,f,0.3,,169240.0,76,38.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",f,f,other,9.0,f, Machine-op-inspct,f,?,t
+192,Dorothy Mosier,"13205 Hunt Lane Apt. 365
+East David, AK 44930",f,t,t,f,86.0,0.72,0.0,0.0,t,f,f,6.5,0.7,250037.0,120,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Farming-fishing,f,?,f
+193,Emilio Juares,"0175 Campbell Well
+Port Steven, SC 24354",f,t,t,f,84.0,0.91,0.0,0.0,f,f,f,2.2,1.6,40135.0,92,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,other,9.0,f, Other-service,f,?,f
+194,Barbara Walker,"6465 Smith Knolls Suite 008
+Douglasbury, ME 64129",f,t,t,f,152.0,1.5,0.0,0.0,f,f,f,1.6,5.4,210781.0,102,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Own-child",t,f,STMW,13.0,f, Adm-clerical,f,?,f
+195,Anna Levin,"10046 Harrison Fields
+South Patricia, FL 53987",f,t,t,f,114.0,0.99,0.0,0.0,f,f,f,1.2,1.5,193568.0,115,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Own-child",t,f,SVI,9.0,f, Machine-op-inspct,f,?,f
+196,Regina Loftin,"3076 Vanessa Grove Suite 712
+Angelton, DC 89688",f,t,t,f,101.0,0.99,0.0,0.0,f,f,f,2.2,1.9,188669.0,102,25.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,SVI,,f, Sales,f,?,f
+197,James Butterfield,"3669 Matthew Highway Apt. 816
+Joseview, MD 39380",f,f,f,f,105.0,,,0.0,f,,f,1.5,1.8,294431.0,?,40.0,f,f, Federal-gov,f,,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,other,14.0,f, Prof-specialty,f,?,f
+198,Karla Ramirez,"USNV Garcia
+FPO AA 79435",f,t,t,f,80.0,0.8,0.0,0.0,f,f,f,2.2,0.2,41356.0,99,40.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, ?,f,?,f
+199,Rosalind Crook,"22928 Cynthia Views Apt. 012
+South Robertmouth, MT 20890",f,t,t,f,108.0,0.93,0.0,0.0,f,f,f,2.8,1.9,422960.0,116,60.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,SVI,,f, Prof-specialty,f,?,f
+200,John Johnson,"07548 Bailey Turnpike
+New Christopher, WI 74329",f,t,t,f,113.0,0.99,0.0,0.0,f,f,f,1.9,,189203.0,114,20.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Never-married|Not-in-family",f,f,other,12.0,f, ?,f,?,f
+201,Gregory Oldfield,"739 Michael Vista
+Port Michaelport, NY 70431",f,t,t,f,107.0,0.79,0.0,0.0,f,f,f,0.2,1.5,337825.0,135,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Craft-repair,f,?,f
+202,James Hart,"2902 Harmon Track Apt. 666
+Adamsville, DC 95298",f,t,t,f,91.0,0.83,0.0,0.0,f,f,f,1.0,0.7,131298.0,110,60.0,,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",,f,SVI,9.0,f, Other-service,f,?,f
+203,Wilma Pena,"120 Watson Crossing
+Christianmouth, MS 80350",f,t,t,f,156.0,1.67,0.0,15024.0,f,f,f,0.9,3.3,259377.0,93,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Wife",t,f,STMW,14.0,f, Prof-specialty,f,?,f
+204,Brenda Wilson,"222 Coleman Passage
+Sherihaven, ND 26607",f,t,t,f,139.0,1.07,0.0,0.0,f,f,f,0.045,,,129,40.0,f,f, Private,f,t,f,,f,f,"White|United-States
+HS-grad -- Never-married|Unmarried",f,f,other,9.0,f, Machine-op-inspct,f,,f
+205,Vicki Yoshida,"827 John Camp Apt. 510
+Williamland, ID 42790",f,t,t,f,76.0,0.86,0.0,0.0,t,f,f,0.6,,76142.0,88,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",f,f,other,9.0,f, Other-service,f,?,f
+206,Micaela Harrill,"755 Brittany Overpass
+New Madisonchester, WI 89900",f,t,t,f,82.0,1.1,0.0,0.0,f,f,f,3.3,0.9,167816.0,75,35.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,other,9.0,f, Exec-managerial,f,?,f
+207,Katrina Elliott,"PSC 0827, Box 5338
+APO AA 65054",f,t,t,f,90.0,1.07,0.0,0.0,f,f,f,1.1,,167658.0,84,6.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+12th -- Never-married|Own-child",f,f,other,8.0,f, Sales,f,?,f
+208,Vera Steinert,"83505 Hampton Light Apt. 305
+Port Christopherport, UT 30383",f,t,t,f,95.0,1.09,0.0,0.0,f,f,f,3.2,1.8,89951.0,87,40.0,f,f, ?,f,t,f,t,f,f,"Black|United-States
+12th -- Married-civ-spouse|Wife",t,f,SVHC,8.0,f, ?,f,?,f
+209,Carl Norden,"05080 Joseph Oval Suite 605
+East Anthonyshire, NE 26988",f,t,t,f,109.0,0.92,0.0,0.0,f,f,f,0.77,1.8,112497.0,118,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,SVI,14.0,f, Exec-managerial,f,?,f
+210,Sheri Cooper,"95019 Gina Motorway
+Dickersonberg, SD 31082",f,t,t,f,101.0,1.18,0.0,0.0,f,f,f,0.6,2.4,306405.0,86,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,other,10.0,f, Tech-support,f,?,f
+211,Mary Soto,"399 Peterson Ways
+Port Jasonport, NE 86793",f,t,t,f,161.0,1.65,0.0,0.0,f,f,f,0.6,4.5,90046.0,97,40.0,f,f, State-gov,f,t,f,t,f,f,"White|Canada
+Some-college -- Never-married|Not-in-family",t,f,other,10.0,f, Other-service,f,?,f
+212,Mario Stutz,"24459 Rose Isle Apt. 153
+Colleenside, IA 87520",f,f,f,f,116.0,,1977.0,0.0,f,f,f,0.035,3.3,36270.0,?,65.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Farming-fishing,f,?,f
+213,Leila Gray,"6469 Kimberly Route
+Beckerton, ME 11448",t,t,t,f,,0.8,0.0,0.0,f,,f,,5.5,237452.0,274,15.0,f,f, Private,f,t,f,,f,,"White|Cuba
+Bachelors -- Married-civ-spouse|Wife",t,f,other,13.0,f, Prof-specialty,f,?,f
+214,Beverly Fowlkes,"0261 Baxter Land Apt. 340
+New Donnamouth, IN 98110",f,t,t,f,85.0,0.87,0.0,0.0,f,f,f,0.97,1.3,496526.0,98,40.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Adm-clerical,f,?,f
+215,Lillian Batchelor,"85280 Sarah Islands
+Lake Victormouth, NV 53776",f,t,t,f,70.0,0.99,0.0,0.0,f,f,f,1.4,2.3,225507.0,71,15.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+11th -- Never-married|Not-in-family",t,f,SVHC,7.0,f, Handlers-cleaners,f,?,f
+216,Therese Wyman,"85951 Richard Valley Suite 669
+East Shelby, CT 82516",f,t,t,f,96.0,1.14,0.0,0.0,f,f,f,0.7,1.3,187088.0,84,20.0,f,f, Private,f,t,f,t,f,f,"Other|Cuba
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Adm-clerical,f,?,f
+217,Betty Keith,"677 Johnson Wells Apt. 815
+Kramerborough, WI 80409",,t,t,f,63.0,1.2,0.0,0.0,f,f,f,24.0,,125550.0,53,35.0,f,t, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",f,f,other,9.0,f, Adm-clerical,f,?,f
+218,Ruth Falco,"65840 Arellano Stravenue
+Cannonmouth, DE 70112",,,t,f,73.0,1.09,0.0,0.0,t,f,f,1.4,2.3,128354.0,67,,f,f, Private,,t,f,t,f,f,,t,f,other,14.0,f, Exec-managerial,f,?,f
+219,Florence Nunez,"68207 Lee Mountain Apt. 989
+Lake Kaitlyn, WA 54675",f,t,t,f,111.0,1.12,0.0,0.0,f,t,f,7.7,,187861.0,99,44.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Separated|Unmarried",f,f,other,9.0,f, Transport-moving,f,?,f
+220,Frances Barry,"USS Riddle
+FPO AA 74299",f,t,t,f,103.0,1.02,0.0,0.0,f,f,f,1.6,2.5,217605.0,101,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Married-civ-spouse|Wife",t,f,SVI,9.0,f, Handlers-cleaners,f,?,f
+221,Phyliss Brummett,"PSC 6901, Box 9117
+APO AP 33102",f,t,t,f,127.0,1.19,0.0,0.0,f,t,f,0.7,,292592.0,107,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",f,f,other,9.0,f, Other-service,f,?,f
+222,Virginia Bowdle,"1037 Conway Shore Suite 100
+North Jamesville, OK 69800",f,t,t,f,96.0,0.83,0.0,0.0,f,t,f,2.8,1.7,185042.0,116,40.0,f,f, Private,f,t,f,t,f,f,"White|Mexico
+1st-4th -- Separated|Other-relative",t,f,other,2.0,f, Priv-house-serv,f,?,f
+223,Stacie Vy,"11638 Donna Heights
+New Alexandriaview, CT 53457",f,t,t,f,72.0,0.9,0.0,0.0,f,f,f,,1.3,199266.0,80,30.0,f,f, Private,,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,other,13.0,f, Exec-managerial,f,?,f
+224,Josphine Otani,"868 Cheryl Meadow
+Gilestown, PA 78035",f,t,t,f,84.0,0.78,0.0,0.0,f,f,f,6.8,0.7,158451.0,107,2.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Wife",t,f,SVI,,f, Prof-specialty,f,?,f
+225,Maria Newman,"293 Thornton Throughway Apt. 385
+Lake Joseph, OK 61970",f,t,t,f,180.0,0.82,0.0,0.0,f,f,f,0.015,1.8,161386.0,219,50.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|United-States
+9th -- Married-civ-spouse|Wife",t,f,other,5.0,f, Adm-clerical,f,?,f
+226,Dick Alvares,"53734 Melissa Lodge Apt. 952
+Hamiltontown, NC 22015",f,t,t,f,62.0,0.77,0.0,0.0,f,f,f,1.3,1.9,106406.0,81,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,SVI,,f, Craft-repair,f,?,f
+227,Samuel Owston,"PSC 3223, Box 5404
+APO AA 21821",f,t,t,f,56.0,0.67,0.0,0.0,f,f,f,2.3,0.9,303822.0,84,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+10th -- Never-married|Own-child",t,f,SVHC,6.0,f, Craft-repair,f,?,f
+228,John Ellis,"5064 Williams Square
+Harperborough, WV 98569",f,t,t,f,115.0,0.92,0.0,0.0,f,f,f,1.7,1.0,239321.0,125,40.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,SVI,13.0,f, Sales,f,?,f
+229,Addie Taggart,"257 Griffin Road Apt. 149
+North Donnastad, CO 97219",f,t,t,f,160.0,1.1,0.0,0.0,f,t,f,0.54,1.8,79448.0,146,10.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",t,f,other,10.0,f, Adm-clerical,f,?,f
+230,Jayne Warren,"19058 Patrick Skyway
+East James, AZ 47046",f,f,f,f,,,0.0,0.0,f,f,f,,2.1,168906.0,?,35.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Assoc-acdm -- Divorced|Own-child",t,f,other,12.0,f, Adm-clerical,f,?,f
+231,Douglas Johnson,"76083 Mary Port
+East Lesliefurt, UT 80066",f,f,f,f,94.0,,0.0,6418.0,f,f,f,0.86,2.7,187292.0,?,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,other,13.0,f, Handlers-cleaners,f,?,f
+232,Angela Burden,"32123 Thomas Ridges Suite 481
+Bakerport, AZ 66194",f,f,f,f,,,0.0,0.0,f,f,f,,,86399.0,?,38.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Some-college -- Separated|Not-in-family",f,f,other,10.0,f, Adm-clerical,f,?,f
+233,Donna Anderson,"82391 Tran Pass
+Port Michael, CO 65179",f,t,t,f,99.0,0.72,0.0,0.0,f,f,f,2.6,0.2,135056.0,138,40.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,9.0,f, Sales,f,?,f
+234,Barbara Null,"166 Snow Throughway Apt. 390
+Port Brandon, CA 88414",f,t,t,f,71.0,0.89,0.0,0.0,f,f,f,0.015,2.0,354529.0,80,,F,f,,f,t,f,t,,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,, Adm-clerical,f,?,f
+235,Betty Donnelly,"80005 Weiss Dam
+Port Daniel, VA 07724",f,t,t,f,112.0,0.98,0.0,0.0,f,f,f,1.1,2.2,209344.0,115,15.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|?
+HS-grad -- Divorced|Unmarried",t,f,STMW,9.0,f, Adm-clerical,f,?,f
+236,Nettie Mclean,"50045 Luis Tunnel
+Lake Robert, MD 90528",f,t,t,f,122.0,1.25,0.0,0.0,f,t,f,1.1,2.6,249214.0,98,40.0,f,f, Local-gov,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Unmarried",t,f,other,10.0,f, Adm-clerical,f,?,f
+237,Michelle Bentley,"42212 Conway Parkways Apt. 104
+South Nicolefort, WI 11074",f,t,t,f,109.0,1.18,0.0,0.0,f,f,f,0.81,2.3,126513.0,93,40.0,f,f, Private,f,t,f,t,f,f,"Black|?
+HS-grad -- Separated|Unmarried",t,f,SVI,9.0,f, Craft-repair,f,?,f
+238,Catherine Erickson,"5149 James Village
+Garnerton, RI 63245",f,t,t,f,184.0,1.14,0.0,2964.0,f,t,f,0.005,3.6,107575.0,162,35.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,other,900.0,f, ?,f,?,f
+239,Heather Huskey,"USS Webb
+FPO AE 97814",f,t,t,f,101.0,0.82,0.0,0.0,f,f,f,0.09,1.0,164707.0,123,40.0,f,f, Private,f,t,f,t,f,f,"White|?
+Some-college -- Never-married|Other-relative",t,f,SVI,10.0,f, Sales,f,?,f
+240,Joel Soffer,"818 Erika Courts
+New Annamouth, AZ 30894",f,f,f,f,,,0.0,0.0,f,f,f,,,131088.0,?,25.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",f,f,other,900.0,f, Handlers-cleaners,f,?,f
+241,Briana Oneal,"183 Montes Rest Suite 879
+Sharonmouth, DC 33747",f,f,f,f,,,1617.0,0.0,f,f,f,,,344920.0,?,20.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",f,f,other,13.0,f, Adm-clerical,f,?,f
+242,Arthur Odegard,"866 Lane Creek Suite 738
+Jefferyland, NV 09093",f,t,t,f,102.0,0.97,0.0,0.0,f,f,f,1.3,,190330.0,105,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",f,f,other,13.0,f, Other-service,f,?,f
+243,Janice Zediker,"87512 James Fords
+North Amandastad, TN 80363",f,f,f,f,,,0.0,0.0,f,f,f,,,149770.0,?,40.0,t,f, Private,f,f,f,f,f,f,"White|United-States
+Masters -- Never-married|Unmarried",f,f,,14.0,f, Prof-specialty,f,?,
+244,Clifford Walters,"Unit 8894 Box 3428
+DPO AP 64908",f,t,t,f,74.0,0.9,0.0,0.0,f,f,f,58.0,,159770.0,82,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",f,f,other,9.0,f, Craft-repair,f,?,f
+245,Walter Brumfield,"15026 Novak Shoals
+Markside, FL 56753",f,t,t,f,37.0,0.74,0.0,0.0,t,f,f,38.0,0.4,83891.0,50,40.0,f,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,,f, Sales,f,?,f
+246,Elizabeth Elliott,"15171 Kristopher Ford
+Michelleville, CO 53289",f,t,t,f,177.0,1.51,0.0,0.0,f,t,f,1.2,2.3,261119.0,117,40.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",t,f,other,9.0,f, Craft-repair,f,?,f
+247,Gerald Johnston,"43427 Tiffany Ports
+Stephanieview, WY 49101",f,t,t,f,105.0,0.91,0.0,0.0,f,f,f,0.3,1.2,241885.0,115,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHC,9.0,f, Transport-moving,f,?,f
+248,Charlotte Vasquez,"6415 Warren Meadow
+Jamesside, WV 33565",f,t,t,f,159.0,1.07,0.0,0.0,f,t,f,0.2,,190767.0,149,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Divorced|Unmarried",f,f,other,11.0,f, Tech-support,f,?,f
+249,Karl Sanchez,"978 Peterson Views Apt. 256
+Crawfordton, CO 40514",f,f,f,f,102.0,,0.0,3103.0,t,f,f,1.3,2.0,198265.0,?,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,other,10.0,f, Tech-support,f,?,f
+250,Irene Burke,"093 Gabrielle Cape
+Jasonport, WA 19131",f,t,t,f,126.0,1.18,0.0,0.0,t,t,f,21.0,1.8,41793.0,107,50.0,FALSE,f, Local-gov,f,t,f,t,f,f,"White|?
+Masters -- Separated|Not-in-family",t,f,other,14.0,f, Prof-specialty,f,?,f
+251,Matthew Amato,"53935 Rebecca Underpass
+North Kimberlyland, CT 17918",f,t,t,f,94.0,0.92,0.0,2993.0,f,f,f,12.1,3.4,108196.0,102,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+9th -- Never-married|Other-relative",t,f,other,-500.0,f, Craft-repair,f,?,f
+252,Paul Price,"016 Gutierrez Lake Suite 155
+West Kevin, TN 08391",f,t,t,f,81.0,1.01,1741.0,0.0,f,f,f,15.0,2.0,127651.0,81,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+10th -- Never-married|Other-relative",t,f,other,6.0,f, Transport-moving,f,?,f
+253,Angelica Dowd,"8102 Harper Ramp Apt. 949
+West Jessebury, MO 41658",f,t,t,f,86.0,1.04,0.0,0.0,f,f,f,,,280500.0,83,40.0,f,f, Private,f,t,f,f,f,f,"Black|United-States
+Some-college -- Never-married|Own-child",f,f,other,10.0,f, Tech-support,f,?,f
+254,Kayla Boswell,"735 Michael Brooks
+East Samuel, LA 61837",f,t,t,f,172.0,0.99,0.0,0.0,f,f,f,0.2,3.5,204082.0,173,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some_college -- Widowed|Not-in-family",t,f,SVHC,10.0,t, Exec-managerial,f,?,f
+255,Chante Johnson,"218 Lori Stream
+Lake Michaelport, NC 85596",f,t,t,f,176.0,1.43,1944.0,0.0,f,f,t,,3.6,71676.0,123,1.0,f,f, Self-emp-not-inc,f,t,f,f,f,f,"White|United-States
+Some-college -- Widowed|Not-in-family",t,f,other,10.0,f, Adm-clerical,f,?,f
+256,Amanda Moss,"42437 Ashley Ports
+North Isaacmouth, MA 91023",f,t,t,f,77.0,0.8,0.0,0.0,f,f,f,3.1,1.9,507086.0,97,32.0,f,f, ?,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Divorced|Not-in-family",t,f,SVI,,f, ?,f,?,f
+257,Gladys Harris,"374 Cook Turnpike
+North Donna, NV 96700",f,t,t,f,110.0,1.02,0.0,0.0,f,f,f,1.1,1.9,693066.0,108,15.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+12th -- Never-married|Own-child",t,f,SVI,8.0,f, Other-service,f,?,f
+258,Sally Talley,"912 Phillips Junction Apt. 345
+Joshualand, DC 22172",f,f,f,f,140.0,,0.0,0.0,f,f,f,2.3,0.9,295308.0,?,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+11th -- Never-married|Own-child",t,f,SVI,7.0,f, Priv-house-serv,f,?,f
+259,Joseph Bednorz,"990 Jensen Heights
+Danastad, OK 57983",f,t,t,f,187.0,0.96,0.0,0.0,f,f,f,,4.3,160943.0,194,40.0,f,f, Private,f,t,f,f,f,f,"Black|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Other-service,f,?,f
+260,Andres Adams,"4445 Brown Mountains
+Schultzshire, MD 75185",f,t,t,f,159.0,1.13,0.0,0.0,f,f,f,0.01,2.1,146015.0,140,40.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHD,900.0,f, ?,f,?,f
+261,Zelma Zins,"95267 Jorge Ports
+Mitchellshire, IL 09606",f,t,t,f,48.0,0.89,0.0,0.0,f,f,f,4.6,1.2,102597.0,54,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Widowed|Unmarried",t,f,other,,f, Adm-clerical,f,?,f
+262,George Bauer,"221 Rebecca Common
+New Michaela, FL 44468",f,t,t,f,148.0,1.11,0.0,0.0,f,f,f,19.0,,84619.0,134,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",f,f,other,13.0,f, Craft-repair,f,?,f
+263,Lynn Mccaskill,"Unit 9962 Box 2980
+DPO AP 70391",f,t,t,f,117.0,1.02,0.0,0.0,f,f,f,5.1,1.4,334105.0,114,10.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Other-service,f,?,f
+264,Sara Smith,"6603 Shields Mission Apt. 006
+Hillberg, AL 97092",f,t,t,f,148.0,1.19,0.0,0.0,f,f,f,1.8,1.8,138504.0,125,37.0,f,f, ?,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Separated|Unmarried",t,f,SVHC,9.0,t, ?,f,?,f
+265,Brenda Wilson,"222 Coleman Passage
+Sherihaven, ND 26607",f,t,t,f,139.0,,0.0,,f,f,f,0.045,,34506.0,129,40.0,f,f, Private,f,t,f,t,f,f,,f,f,other,9.0,f, Machine-op-inspct,f,?,f
+266,Cindy Jackson,"1711 Jose Centers
+Jonesshire, UT 07645",f,t,t,f,88.0,0.93,0.0,0.0,f,f,f,2.1,,208630.0,95,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Divorced|Not-in-family",f,f,other,14.0,f, Sales,f,?,f
+267,Mable Leischner,"24912 Morse Trail
+New Sherryberg, NV 47212",f,t,t,f,13.0,1.19,0.0,0.0,f,f,f,31.0,0.8,50058.0,11,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,other,10.0,f, Adm-clerical,f,?,f
+268,Ruth Ledbetter,"025 Casey Motorway Suite 121
+New Cherylport, RI 47016",f,t,t,f,75.0,0.88,0.0,0.0,f,f,f,0.17,1.2,154165.0,85,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,9.0,f, Handlers-cleaners,f,?,f
+269,Dana Liriano,"972 Raymond Burgs Suite 533
+South Michael, IL 38150",f,t,t,f,93.0,0.73,0.0,0.0,f,f,f,2.3,1.1,227886.0,127,35.0,FALSE,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Unmarried",t,f,other,10.0,f, Adm-clerical,f,?,f
+270,Henry Bondurant,"1707 William Vista
+North Larrystad, NM 39690",f,t,t,f,111.0,0.78,0.0,0.0,f,f,f,1.8,1.4,55849.0,142,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Craft-repair,f,?,f
+271,James Melton,"267 William Trafficway
+Terriburgh, TX 62247",t,t,,,89.0,1.1,,0.0,f,t,f,0.3,2.6,184378.0,81,60.0,F,f, Private,t,t,f,t,f,f,"White|Puerto-Rico
+Some-college -- Married-civ-spouse|Husband",t,f,other,10.0,, Sales,f,,f
+272,Glen Armstrong,"44096 Debra Square Suite 291
+Port Dennisville, NJ 74638",t,f,f,f,,,0.0,0.0,t,t,f,5.2,,126754.0,?,40.0,f,f, State-gov,f,f,f,t,f,f,,f,,other,-900.0,f, Craft-repair,f,?,
+273,Betty Stewart,"746 Keith Lane
+Jefferyview, RI 19326",f,t,t,f,99.0,1.16,0.0,0.0,f,f,f,6.6,2.2,124686.0,85,10.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+7th-8th -- Widowed|Not-in-family",t,f,other,4.0,f, Machine-op-inspct,f,?,f
+274,Howard Picciano,"01540 Moon Mountain Suite 113
+Bethborough, MT 77223",f,t,t,f,34.0,1.17,0.0,3137.0,f,f,f,472.0,1.7,101722.0,29,40.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,STMW,1000.0,f, Exec-managerial,f,?,f
+275,Christopher Haddock,"17366 Jones Estate
+New Tyroneville, IL 04778",f,t,t,f,94.0,0.88,0.0,0.0,f,f,f,0.4,2.8,37932.0,106,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVHC,9.0,f, Other-service,f,?,f
+276,Stacie Vy,"11638 Donna Heights
+New Alexandriaview, CT 53457",f,t,t,f,,,0.0,0.0,f,f,f,2.4,1.3,199266.0,80,30.0,f,f, Private,f,t,f,t,,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,other,13.0,f, Exec-managerial,f,?,
+277,James Conner,"8428 Lee Park
+Amandaborough, SD 97668",f,t,t,f,98.0,0.75,0.0,0.0,f,t,f,0.35,1.6,199495.0,131,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,other,9.0,f, Craft-repair,f,?,f
+278,Ngoc Frazier,"25594 Brian Shores
+Barbarafort, MO 89671",f,t,t,f,73.0,0.93,0.0,0.0,f,t,f,4.9,,106812.0,79,38.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Divorced|Not-in-family",f,f,other,11.0,f, Exec-managerial,f,?,f
+279,Tom Lee,"5064 Martin Islands
+Charlesberg, WY 27187",f,t,t,f,54.0,0.93,0.0,0.0,f,f,f,0.68,2.0,382802.0,58,99.0,f,f, Self-emp-inc,f,t,f,t,f,f,"Black|United-States
+Doctorate -- Married-civ-spouse|Husband",t,f,other,16.0,f, Prof-specialty,f,?,f
+280,John Walker,"965 Rachel Burg Apt. 209
+Gordonbury, AL 62760",f,t,t,f,103.0,0.96,0.0,0.0,f,f,f,3.5,1.7,208106.0,107,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Separated|Not-in-family",t,f,SVI,13.0,f, Exec-managerial,f,?,f
+281,Carlos Schwartz,"447 Sean Manors Apt. 471
+Kathleenfurt, GA 84266",f,t,t,f,70.0,0.9,0.0,0.0,f,f,f,2.4,,114994.0,78,20.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Married-civ-spouse|Husband",f,f,other,9.0,f, Other-service,f,?,f
+282,Rosa Mcclellan,"5959 Allen Mountain Apt. 820
+New Robertview, GA 42787",f,t,t,f,142.0,1.05,0.0,0.0,f,f,f,0.005,1.8,199735.0,135,44.0,f,f, Private,f,t,f,t,f,f,"White|Germany
+Bachelors -- Divorced|Not-in-family",t,f,other,1300.0,f, Priv-house-serv,f,?,f
+283,Dennis Neese,"902 Chavez Junction
+East Dillonburgh, DE 06009",f,t,t,f,80.0,0.72,0.0,0.0,f,f,f,2.1,1.8,274010.0,111,45.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,other,1000.0,f, Prof-specialty,f,?,f
+284,Joe Kies,"44944 Fuentes Parkways
+Pamelamouth, NE 61251",f,t,t,f,107.0,0.86,0.0,0.0,f,f,f,0.6,2.7,136028.0,125,30.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+9th -- Married-civ-spouse|Husband",t,f,SVI,5.0,f, Craft-repair,f,?,f
+285,Laverne Nichols,"92624 Gates Lock
+Stoutberg, OH 61338",f,t,t,f,85.0,1.19,0.0,0.0,f,f,f,0.31,2.2,21472.0,71,22.0,f,f, Self-emp-not-inc,t,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,other,10.0,f, Other-service,f,?,f
+286,Stephanie Pegues,"888 Melissa Burgs
+New Justinshire, WV 92726",f,t,t,f,139.0,1.15,0.0,0.0,f,f,f,1.0,2.4,178811.0,121,20.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,9.0,f, Machine-op-inspct,f,?,f
+287,Frances Pryor,"72409 Reed Forest Suite 209
+Port Joan, WV 55241",f,t,t,f,147.0,1.13,0.0,3103.0,f,,f,1.8,2.5,303674.0,129,20.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,SVHC,9.0,t, ?,f,?,f
+288,Richard Lasley,"9034 Kelli Neck Apt. 960
+Sarahberg, SD 16946",f,t,t,f,86.0,0.82,0.0,0.0,f,f,f,0.5,1.8,148320.0,105,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,SVHC,-1000.0,f, Adm-clerical,f,?,f
+289,Huong Groves,"1052 Herrera Shores Suite 676
+New Jason, FL 46009",f,t,t,f,107.0,,0.0,0.0,f,t,f,0.76,,275357.0,118,25.0,f,f, Private,f,t,,t,f,f,"White|United-States
+Assoc-voc -- Never-married|Own-child",f,f,other,11.0,f, Tech-support,f,?,f
+290,Kent Claypoole,"19646 Corey Unions
+Kathleenstad, AZ 27852",f,t,t,f,61.0,0.49,0.0,0.0,f,t,f,1.4,0.8,122353.0,124,40.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,other,13.0,f, Exec-managerial,f,?,f
+291,Gloria Lepley,"USCGC Lawrence
+FPO AA 76544",f,t,t,f,96.0,0.9,0.0,0.0,f,f,f,1.0,1.7,73394.0,107,50.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,SVI,10.0,f, Exec-managerial,f,?,f
+292,Mary Rodgers,"49180 Castillo Cliffs
+East Alexisville, VT 18863",f,t,t,f,83.0,0.7,0.0,0.0,f,t,f,2.1,,23892.0,117,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",f,f,other,9.0,f, Machine-op-inspct,f,?,f
+293,Theresa Vandergriff,"95831 Robin Islands
+East Craig, DE 89940",f,f,f,f,101.0,,1974.0,0.0,f,f,f,2.7,1.7,275818.0,?,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,other,10.0,f, Sales,f,?,f
+294,Brian Roman,"USNS Mack
+FPO AE 03170",f,t,t,f,95.0,0.93,0.0,0.0,f,f,f,1.6,1.2,373718.0,102,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVHC,10.0,t, Farming-fishing,f,?,f
+295,Michelle Ekmark,"374 Juarez Loop
+Lake Thomas, NE 73923",f,t,t,f,93.0,0.91,0.0,0.0,f,f,f,1.4,2.0,83033.0,102,25.0,F,f, Private,f,t,f,t,f,f,"White|Germany
+Some-college -- Never-married|Not-in-family",t,f,SVI,1000.0,f, Other-service,f,?,f
+296,Norma White,"201 Jillian Springs
+Williamsside, MD 03176",f,t,t,f,99.0,0.97,0.0,0.0,f,f,f,11.4,,370881.0,102,7.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Widowed|Not-in-family",f,f,other,1200.0,f, Other-service,f,?,f
+297,Bernadette Depaolo,"8569 Douglas Terrace
+North Dawn, MT 81616",f,t,t,f,95.0,0.68,0.0,0.0,f,f,f,1.1,1.7,63899.0,140,40.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+11th -- Never-married|Other-relative",t,f,SVI,7.0,f, Adm-clerical,f,?,f
+298,Martin Powell,"38486 Kimberly Lights
+New Loretta, IN 55299",t,t,t,f,86.0,0.75,0.0,0.0,f,f,f,0.37,2.2,401886.0,115,20.0,,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Other-relative",t,f,other,,f, Adm-clerical,,,f
+299,Terry Murphy,"0128 Amy Station
+Jenniferfurt, OR 14942",f,f,f,f,133.0,,0.0,0.0,f,f,f,1.5,2.1,34446.0,?,37.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,other,,f, Tech-support,f,?,f
+300,Allen Gonzalez,"6805 Jones Way Apt. 699
+Port Michelle, HI 50250",f,t,t,f,93.0,0.84,0.0,0.0,f,f,f,5.6,,200960.0,110,50.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",f,f,other,13.0,f, Sales,f,?,f
+301,Morgan Cook,"089 Jo Square
+Amandafort, KS 77465",f,t,t,f,99.0,0.79,0.0,0.0,f,f,f,1.5,0.8,174391.0,126,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,9.0,f, Handlers-cleaners,f,?,f
+302,Veronica Rich,"73418 Phillips Mall
+Leehaven, KS 20814",f,t,t,f,167.0,0.88,0.0,0.0,f,f,f,1.7,1.8,123727.0,189,21.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Prof-specialty,f,?,f
+303,Kristen Mckinney,"PSC 0340, Box 4361
+APO AP 69735",f,t,t,f,83.0,1.01,0.0,0.0,f,f,f,11.0,1.2,130812.0,82,40.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,other,9.0,f, Exec-managerial,f,?,f
+304,Louise Grudem,"56724 Griffith Stream
+Port Tinastad, NV 27220",t,t,t,f,110.0,1.01,0.0,0.0,f,f,f,,2.3,87282.0,109,38.0,f,f, State-gov,f,t,f,f,f,f,"Asian-Pac-Islander|United-States
+Bachelors -- Never-married|Not-in-family",t,f,other,13.0,f, Prof-specialty,f,?,f
+305,James Karo,"69048 Emily Estate Suite 764
+Rebeccaburgh, NY 34953",f,t,t,f,132.0,0.94,0.0,0.0,f,f,f,1.4,2.3,54261.0,140,84.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+HS_grad -- Married-civ-spouse|Husband",t,f,SVHC,-900.0,t, Farming-fishing,f,?,f
+306,Kristina Lewis,"847 Stephen Cliffs Apt. 318
+East Maryfort, KS 15063",f,t,t,f,80.0,1.02,0.0,0.0,f,f,f,0.09,1.3,190040.0,79,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,other,900.0,f, Adm-clerical,f,?,f
+307,Silvia Ekmark,"90872 David Parkways Apt. 496
+Lake Nicholasburgh, NE 04149",f,t,t,f,141.0,1.12,0.0,0.0,f,f,f,,3.9,209831.0,126,40.0,f,f, Private,f,t,f,f,f,f,"White|United-States
+Assoc_voc -- Married-civ-spouse|Wife",t,f,other,11.0,f, Adm-clerical,f,?,f
+308,Ashley Filion,"0963 Smith Mountain
+South Audrey, CO 41044",f,t,t,f,87.0,0.69,0.0,0.0,f,f,f,0.035,0.3,212210.0,126,20.0,f,f, Local-gov,f,t,f,t,f,f,"White|?
+Assoc-acdm -- Never-married|Own-child",t,f,SVI,12.0,f, Adm-clerical,f,?,f
+309,Jena Simpson,"01067 Jennifer Knoll Suite 260
+Lake Jeffrey, CA 53274",f,t,t,f,136.0,1.07,0.0,0.0,f,f,f,1.7,2.3,252752.0,127,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Unmarried",t,f,SVHC,9.0,t, Other-service,f,?,f
+310,Jack Mckeon,"558 Smith Wells Suite 014
+Stevenview, MA 94811",f,t,t,f,84.0,0.85,0.0,0.0,f,f,f,2.1,2.2,39432.0,99,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Craft-repair,f,?,f
+311,Marlene Ray,"39995 Lewis Hills
+Staceymouth, DC 89883",f,t,t,f,77.0,0.79,0.0,0.0,f,f,f,9.7,1.1,255702.0,97,27.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,9.0,f, Other-service,f,?,f
+312,William Chandler,"8576 Robert Wells
+New Eric, OH 56331",f,t,t,f,85.0,0.94,0.0,15024.0,,t,f,0.54,,93997.0,91,45.0,f,f, Private,f,t,f,t,,,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",f,f,,13.0,f, Exec-managerial,f,?,f
+313,Carl Dellosso,"91110 Lisa Wall Apt. 984
+Contreraschester, MA 17265",f,t,t,f,77.0,0.91,0.0,0.0,f,f,f,1.0,2.1,56559.0,84,12.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVI,,f, Sales,f,?,f
+314,Rickey Tellez,"14016 Mathew Path
+New Darlene, GA 15046",f,t,t,f,105.0,0.83,0.0,0.0,f,f,,2.3,,401623.0,127,40.0,f,f,,f,,f,t,f,f,"Black|Jamaica
+Some-college -- Married-civ-spouse|Husband",t,f,,10.0,, Tech-support,f,?,f
+315,Patricia Pardue,"551 Moore Circles Suite 544
+Lake Dorothyside, AZ 97996",f,t,t,f,144.0,1.17,0.0,0.0,f,f,f,1.3,2.8,119359.0,123,40.0,FALSE,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|United-States
+Bachelors -- Never-married|Own-child",t,f,other,13.0,f, Exec-managerial,f,?,f
+316,Rachell Collier,"2360 Kara Keys Suite 309
+Joyceland, OR 72403",f,t,t,f,141.0,1.15,0.0,0.0,f,f,f,1.4,1.7,135056.0,123,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, Adm-clerical,f,?,f
+317,Sally Riegel,"36064 Nathan Isle Apt. 614
+Melissaland, SC 65948",f,t,t,f,103.0,1.03,2457.0,0.0,f,f,f,1.7,2.1,192052.0,100,40.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,other,10.0,f, ?,f,?,f
+318,Jeanette Wing,"957 Marc Station Suite 074
+Olsenfort, MA 99515",t,t,t,f,88.0,0.81,0.0,0.0,f,t,f,0.015,1.9,93211.0,109,22.0,FALSE,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Wife",t,f,other,13.0,f, Exec-managerial,f,?,f
+319,Juanita Jordan,"81602 David Pass
+Cookeshire, NY 69987",f,t,t,f,77.0,1.11,0.0,0.0,t,f,f,58.0,,119182.0,69,35.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Separated|Not-in-family",f,f,other,900.0,f, Other-service,f,?,f
+320,Kelly Seeholzer,"062 Joshua Hill
+Port John, TX 88178",f,t,t,f,45.0,0.97,0.0,0.0,t,f,f,183.0,1.1,94193.0,46,40.0,f,f, Federal-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",t,f,other,9.0,f, Adm-clerical,f,?,f
+321,Sheila Eason,"0865 Bowman Fort
+Matthewview, KS 79323",t,f,f,f,137.0,,0.0,0.0,f,t,f,0.2,2.4,226891.0,?,20.0,f,f, ?,t,t,f,t,f,f,"Asian-Pac-Islander|South
+HS-grad -- Never-married|Other-relative",t,f,other,9.0,f, ?,f,?,f
+322,Olivia Le,"632 Heather Wall Suite 709
+Andersonhaven, MT 75892",f,t,t,f,123.0,0.93,0.0,0.0,f,f,t,0.6,2.2,171461.0,132,20.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+10th -- Never-married|Own-child",t,f,SVI,6.0,f, ?,f,?,f
+323,Mamie Serio,"5955 Turner Ridges Apt. 367
+Evanport, DE 32520",t,t,t,f,122.0,1.66,0.0,0.0,f,f,f,0.02,2.3,32186.0,73,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Separated|Not-in-family",t,f,STMW,,f, Prof-specialty,f,?,f
+324,Bill Lowrey,"45599 Middleton Throughway
+Thomasfort, AK 25696",,t,t,f,111.0,0.95,0.0,0.0,f,f,f,1.6,,160192.0,117,40.0,f,, Private,,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Other-service,f,,f
+325,Marlene Smith,"03673 Darrell Harbor Suite 403
+East Bonniefort, CA 50416",f,t,t,f,172.0,1.8,0.0,0.0,f,t,f,8.3,3.1,127865.0,96,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Never-married|Unmarried",t,f,other,14.0,f, Adm-clerical,f,?,t
+326,Tawnya Barry,"2670 Reyes Squares
+Pachecoland, UT 66344",t,t,t,f,217.0,0.98,0.0,0.0,f,f,f,0.15,3.5,206354.0,221,35.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Never-married|Unmarried",t,f,other,9.0,f, Other-service,f,?,f
+327,Bridget Murray,"42253 David Course
+Shahchester, SD 53542",f,t,t,f,148.0,1.48,0.0,0.0,f,f,f,0.7,5.4,118941.0,100,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Own-child",t,f,STMW,10.0,f, Other-service,f,?,f
+328,Rebecca Angel,"47398 Gina Stravenue
+New Jennifer, OR 13448",f,t,t,f,110.0,1.08,0.0,0.0,f,f,f,1.0,1.1,659558.0,102,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+12th -- Widowed|Unmarried",t,f,SVI,,f, Other-service,f,?,f
+329,Beatrice Weathers,"Unit 2575 Box 5807
+DPO AP 05934",f,t,t,f,130.0,0.85,0.0,0.0,f,f,f,6.2,0.5,177083.0,153,30.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",t,f,SVI,1000.0,f, Tech-support,f,?,f
+330,Willie Houghtelling,"4201 Tracy Plains
+South Todd, ND 25360",f,t,t,f,87.0,0.91,0.0,0.0,f,f,f,16.0,,23778.0,95,50.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Not-in-family",f,f,other,-1300.0,f, Exec-managerial,f,?,f
+331,Janet Esser,"PSC 2085, Box 9304
+APO AA 61151",f,f,f,f,,,0.0,0.0,f,f,f,,,143030.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",f,f,other,9.0,f, Machine-op-inspct,f,?,f
+332,Alfredo Abels,"035 Kyle Drive Suite 720
+Reneeville, SC 82000",f,t,t,f,109.0,0.91,0.0,0.0,f,f,f,0.98,,167737.0,120,48.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",f,f,other,1000.0,f, Handlers-cleaners,f,?,f
+333,Nancy Pearse,"121 Davila Islands
+South Christopher, MO 01717",f,t,t,f,119.0,0.91,0.0,0.0,f,f,f,0.17,1.8,83082.0,130,33.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Never-married|Not-in-family",t,f,SVI,12.0,f, Prof-specialty,f,?,f
+334,Charles Cowley,"440 Archer Summit Apt. 820
+South Adam, ID 20802",f,t,t,f,118.0,1.1,0.0,0.0,f,f,f,1.8,1.7,205839.0,107,16.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Other-service,f,?,f
+335,Sheila Caravello,"8797 Jill Ports
+Ballfurt, AK 50062",f,t,t,f,102.0,1.12,0.0,0.0,f,f,f,4.7,2.4,100067.0,92,35.0,f,f, Private,t,t,f,t,f,f,"Black|United-States
+11th -- Married-civ-spouse|Wife",t,f,other,7.0,f, Other-service,f,?,f
+336,Laurie Auduong,"00418 Brian Pine Apt. 401
+North Elizabeth, OH 22963",f,f,f,f,,,0.0,0.0,t,t,f,,,144586.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",f,f,other,10.0,f, Sales,f,?,f
+337,Florentina Yarbrough,"84089 Gray Course
+South Michelle, NV 28515",f,t,t,f,98.0,1.01,0.0,0.0,f,f,f,3.8,2.0,421449.0,97,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",t,f,SVHC,9.0,f, Adm-clerical,f,?,f
+338,Laura Chavez,"57196 George Islands
+South Tarahaven, AL 41287",f,f,f,f,,,0.0,0.0,f,f,f,2.4,,56795.0,?,45.0,f,f, Private,f,f,f,t,f,f,"White|England
+Masters -- Married-civ-spouse|Wife",f,f,other,14.0,f, Prof-specialty,f,?,f
+339,Helen Scruggs,"9829 Young Wells
+Williamstown, NE 41613",f,t,t,f,85.0,0.89,0.0,0.0,f,f,f,0.7,2.0,126978.0,96,40.0,f,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|China
+HS-grad -- Married-civ-spouse|Wife",t,f,SVHC,9.0,f, Machine-op-inspct,f,?,f
+340,Jane Dexter,"9902 Aaron Wells Apt. 350
+Stephensonmouth, WI 25935",f,t,t,f,128.0,1.08,0.0,0.0,f,f,f,7.6,1.7,256019.0,118,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Never-married|Not-in-family",t,f,other,14.0,f, Prof-specialty,f,?,f
+341,Kathryn Woodard,"4947 Taylor Ville Suite 311
+Sweeneyborough, NM 17125",f,t,t,f,37.0,0.72,0.0,99999.0,f,t,f,9.7,0.5,134886.0,51,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,SVI,10.0,f, Adm-clerical,f,?,f
+342,Hannah Cotten,"0628 Lowe Brooks Apt. 072
+South Nicholas, IN 70836",f,t,t,f,175.0,1.04,1980.0,0.0,f,t,f,0.03,,187119.0,168,65.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Not-in-family",f,f,other,13.0,f, Sales,f,?,f
+343,Jane Durant,"10587 Vanessa Lights Apt. 086
+Debrashire, TX 19180",f,t,t,f,155.0,0.72,0.0,0.0,f,t,f,0.02,1.6,189219.0,216,8.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Never-married|Not-in-family",t,f,other,12.0,f, Adm-clerical,f,?,f
+344,Heather Kilgore,"5630 Denise Knolls
+Chloeville, DE 16762",t,f,f,f,,,0.0,0.0,f,t,f,,,353219.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+9th -- Divorced|Unmarried",f,f,other,,f, Other-service,f,?,f
+345,Francine Newman,"5542 Benjamin Inlet
+Lake Davidstad, KY 93468",f,f,f,f,,,0.0,0.0,f,f,f,,,298661.0,?,40.0,f,f, Federal-gov,f,f,f,f,f,f,"Black|United-States
+Bachelors -- Never-married|Not-in-family",f,f,other,13.0,f, Tech-support,f,?,f
+346,Nicole Kitchens,"72361 George Haven Apt. 405
+East Sarah, WY 09469",f,t,t,f,68.0,1.15,0.0,0.0,t,f,f,10.3,2.0,168009.0,59,40.0,f,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|Vietnam
+10th -- Married-civ-spouse|Own-child",t,f,SVHC,,f, Machine-op-inspct,f,?,f
+347,Howard Herrera,"36697 Harper Hills Apt. 348
+Johnside, LA 16962",f,t,t,f,89.0,0.99,0.0,0.0,f,f,f,0.2,2.2,208451.0,90,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,other,14.0,f, Exec-managerial,f,?,f
+348,Rose Koehn,"735 Yolanda Forges Suite 853
+West Kenneth, FL 57188",f,t,t,f,91.0,0.9,0.0,0.0,f,f,f,3.5,1.8,338611.0,101,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some_college -- Divorced|Unmarried",t,f,SVI,,f, Adm-clerical,f,?,f
+349,Harlan Roberson,"404 Steven Extensions
+Jessicaville, NH 13268",f,t,t,f,87.0,0.93,0.0,0.0,f,f,f,2.2,2.3,95552.0,94,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,other,9.0,f, Tech-support,f,?,f
+350,Tom Casagrande,"76518 Crystal Mews Apt. 707
+Brandistad, IA 27971",f,t,t,f,110.0,0.89,0.0,0.0,f,f,f,2.0,1.5,206577.0,124,40.0,FALSE,f, State-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Own-child",t,f,SVI,10.0,f, Adm-clerical,f,?,f
+351,Patty Flint,"0352 Breanna Springs Apt. 210
+Port John, UT 40221",f,t,t,f,87.0,0.79,0.0,0.0,f,t,f,0.25,,130834.0,109,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",f,f,other,10.0,f, Adm-clerical,f,?,f
+352,Ada Wells,"08480 Samantha Burg Apt. 336
+Lake Dylanchester, GA 32697",f,t,t,f,138.0,1.15,0.0,0.0,f,f,t,0.2,2.5,156889.0,119,40.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Not-in-family",t,f,SVI,10.0,f, Adm-clerical,f,?,f
+353,Jaqueline Hansen,"383 Timothy Brooks Apt. 744
+Matthewchester, AL 06911",f,t,t,f,120.0,1.22,0.0,0.0,f,f,f,1.2,3.5,97176.0,98,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Other-relative",t,f,other,9.0,f, Adm-clerical,f,?,f
+354,Juana Joyce,"Unit 0942 Box 9910
+DPO AP 73364",f,t,t,f,126.0,1.36,0.0,0.0,f,f,f,6.9,,48947.0,93,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",f,f,other,10.0,f, Adm-clerical,f,?,f
+355,Carol Crum,"USS Davis
+FPO AE 99029",f,t,t,f,139.0,1.02,0.0,0.0,f,f,f,1.6,2.2,89636.0,136,60.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"Asian-Pac-Islander|South
+Bachelors -- Married-civ-spouse|Wife",t,f,SVHC,13.0,f, Sales,f,?,f
+356,Brian Riley,"056 Brian Circles Suite 334
+Port Anne, NE 64408",f,t,t,f,156.0,1.39,0.0,0.0,f,f,f,0.57,1.3,193434.0,112,20.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHC,9.0,f, Craft-repair,f,?,f
+357,Catherine Hoffman,"37006 Danielle Pine
+Port Stevenchester, VA 96566",f,t,t,f,123.0,1.16,0.0,0.0,f,f,f,1.9,,146651.0,107,15.0,f,, ?,f,t,f,t,f,f,"White|United-States
+HS_grad -- Married-civ-spouse|Own-child",f,,other,,f, ?,f,,f
+358,Kathryn Koch,"934 Francis Unions Apt. 659
+Jeremyshire, CO 92488",f,t,t,f,35.0,0.83,0.0,0.0,f,f,f,17.0,,178207.0,42,35.0,f,f, Private,f,t,f,t,f,f,"Amer-Indian-Eskimo|United-States
+Some-college -- Never-married|Unmarried",f,f,other,-1000.0,f, Handlers-cleaners,f,?,f
+359,Rosina Knowles,"PSC 1511, Box 3844
+APO AP 84871",f,t,t,f,97.0,0.88,0.0,0.0,f,t,f,6.0,1.5,163205.0,110,53.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS_grad -- Never-married|Own-child",t,f,other,9.0,f, Other-service,f,?,f
+360,William Pierce,"807 Reynolds Field
+New Andrewview, ME 24234",f,t,t,f,78.0,0.85,0.0,0.0,f,t,f,0.2,2.0,208534.0,92,80.0,f,f, Federal-gov,f,t,f,t,f,f,"White|United-States
+Prof-school -- Married-civ-spouse|Husband",t,f,SVI,15.0,f, Prof-specialty,f,?,f
+361,Julia Colligan,"194 Ashley Groves Apt. 619
+East Carl, NE 74614",t,t,t,f,181.0,0.96,0.0,0.0,f,f,f,0.005,3.9,369677.0,188,36.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+10th -- Separated|Not-in-family",t,f,SVI,6.0,f, Sales,f,?,f
+362,Karen Homer,"PSC 7802, Box 4064
+APO AP 89691",f,t,t,f,122.0,1.16,0.0,0.0,f,f,f,0.05,2.6,196288.0,105,20.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Never-married|Not-in-family",t,f,other,12.0,f, ?,f,?,f
+363,Edward Ford,"495 Cannon Island
+New Johnport, GA 69209",f,t,t,f,14.0,1.11,0.0,7688.0,f,f,f,60.0,0.7,151584.0,13,60.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Prof-school -- Married-civ-spouse|Husband",t,f,other,15.0,f, Exec-managerial,f,?,f
+364,Brenda Johnson,"0462 Tristan Ridges
+Lake Thomas, SD 19803",f,t,t,f,108.0,1.13,0.0,0.0,f,f,t,0.2,2.5,54800.0,96,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,STMW,9.0,f, Other-service,f,?,t
+365,Vicki Barr,"514 James Club
+North Phyllis, NV 18588",f,t,t,f,101.0,1.07,0.0,0.0,f,f,t,1.1,,345285.0,94,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+11th -- Never-married|Own-child",f,f,other,7.0,f, Sales,f,?,f
+366,Thelma Blanchette,"386 Steven Ferry Suite 553
+North Joyhaven, PA 18021",f,t,t,f,70.0,0.95,0.0,0.0,f,f,f,9.4,,167691.0,74,50.0,f,f, Self-emp-not-inc,f,t,f,t,f,t,"White|United-States
+Some-college -- Never-married|Unmarried",f,f,other,10.0,f, Other-service,f,?,f
+367,Guillermo Korn,"665 Bryan Light Suite 625
+Lake Charles, MA 13703",f,t,t,f,107.0,1.09,0.0,0.0,f,f,t,1.1,2.8,125892.0,99,50.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,other,14.0,f, Sales,f,?,f
+368,Carol Hobson,"58670 Brian Mission
+South Kathleen, WI 88592",f,t,t,f,95.0,1.05,0.0,4386.0,f,f,f,1.2,2.4,169527.0,90,20.0,f,f, Private,f,t,f,t,f,t,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,SVI,10.0,f, Sales,f,?,f
+369,Charles Deutsch,"1165 Erica Crescent Suite 096
+Ricardofort, MT 74736",f,f,f,f,,,0.0,0.0,f,f,f,,,163003.0,?,40.0,f,f, Private,f,f,f,f,f,f,"Asian-Pac-Islander|Philippines
+Assoc-acdm -- Never-married|Other-relative",f,f,other,12.0,f, Prof-specialty,f,?,f
+370,Darla Evans,"77450 Thomas Stream
+Collinsland, IL 52726",f,t,t,f,94.0,1.06,0.0,0.0,f,f,f,1.6,1.6,106698.0,89,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Divorced|Unmarried",t,f,other,,f, Transport-moving,f,?,f
+371,Anne Lipson,"4195 Timothy Loop Suite 598
+Hillborough, DE 37713",f,t,t,f,108.0,1.14,0.0,0.0,t,f,f,6.2,,304386.0,94,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",f,f,other,9.0,f, Other-service,f,?,f
+372,Charles Saran,"8801 Stewart Harbors Suite 140
+Duncanburgh, MS 22548",f,t,t,f,75.0,0.82,0.0,0.0,f,f,f,5.4,1.0,410351.0,92,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Craft-repair,f,?,f
+373,Frances Hanson,"377 David Land
+West Timothy, MO 82672",f,t,t,f,48.0,0.98,0.0,14084.0,f,f,f,46.0,1.0,151408.0,49,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Never-married|Not-in-family",t,f,SVI,14.0,f, Exec-managerial,f,?,f
+374,Sue Constantine,"098 Frederick Forge
+Garyport, RI 34198",f,t,t,f,121.0,1.01,0.0,0.0,t,f,f,3.0,2.3,129620.0,120,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+10th -- Never-married|Other-relative",t,f,SVI,6.0,f, Other-service,f,?,f
+375,Beulah Schrom,"293 Malone Parkway Suite 277
+Port Marcchester, NV 28765",f,t,t,f,158.0,1.42,0.0,0.0,f,f,f,0.3,4.1,256674.0,111,25.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+HS-grad -- Widowed|Not-in-family",t,f,other,9.0,f, ?,f,?,f
+376,Kimberly Antczak,"84516 Peterson Grove
+Port Williammouth, SD 64207",f,t,t,f,85.0,0.89,0.0,0.0,f,f,f,6.9,,131461.0,95,24.0,F,f, Private,f,t,f,t,f,f,"Black|Haiti
+9th -- Married-civ-spouse|Wife",f,f,other,5.0,f, Other-service,f,?,f
+377,Dale Sabol,"8116 Davis Stravenue Apt. 726
+Ryanshire, AL 44595",f,t,t,f,32.0,1.16,0.0,0.0,f,f,f,151.0,1.0,133937.0,28,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Never-married|Own-child",t,f,other,14.0,f, Sales,f,?,f
+378,Huong Groves,"1052 Herrera Shores Suite 676
+New Jason, FL 46009",f,t,t,f,,0.91,0.0,0.0,f,t,f,0.76,,275357.0,118,,f,f, Private,f,t,f,t,f,f,,f,f,,11.0,f, Tech-support,f,?,f
+379,Christal Hardeman,"230 Jennifer Shores Apt. 494
+Port Jessicaview, MN 73079",f,t,t,f,111.0,1.02,0.0,0.0,f,f,f,1.1,1.7,308064.0,108,40.0,f,f, ?,f,t,f,t,f,f,"Black|United-States
+HS_grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, ?,f,?,f
+380,Mai Schleppenbach,"601 Jones Spur
+West Edgar, IA 86033",t,t,t,f,191.0,1.0,0.0,0.0,f,f,f,0.015,4.1,406826.0,191,45.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,other,13.0,f, Prof-specialty,f,?,f
+381,Catherine Mccoy,"940 Christopher Courts
+Leeport, VT 51469",f,t,t,f,181.0,1.65,0.0,0.0,f,f,f,2.0,2.7,49593.0,109,30.0,f,f, ?,f,t,f,t,f,f,"Black|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,SVI,10.0,f, ?,f,?,f
+382,Kay Moore,"11643 Torres Mission
+Alyssashire, CT 32945",f,t,t,f,100.0,1.01,0.0,0.0,f,f,f,4.4,1.6,192251.0,99,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,STMW,,f, Adm-clerical,f,?,f
+383,Cynthia Valencia,"608 Burton Groves
+Serranoburgh, IA 49241",f,t,t,f,94.0,0.82,0.0,0.0,f,f,f,0.9,1.8,30824.0,115,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Some_college -- Divorced|Not-in-family",t,f,SVI,10.0,f, Adm-clerical,f,?,f
+384,Clara Mustard,"94477 Ashley Valley
+North Jack, IN 16599",f,f,f,f,,,0.0,0.0,f,f,t,,2.8,193626.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+HS-grad -- Married-spouse-absent|Unmarried",t,f,SVI,9.0,f, Craft-repair,f,?,f
+385,Steven Martin,"945 Lane Summit Suite 145
+South Richardview, TX 31588",f,t,t,f,95.0,1.07,0.0,0.0,f,f,f,2.3,2.7,178815.0,88,55.0,f,f, Private,t,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Sales,f,?,f
+386,Richard Bowlin,"58759 Hall Ports Suite 297
+Cookland, AR 99242",f,t,t,f,110.0,0.87,0.0,0.0,f,f,f,3.0,2.7,175339.0,126,50.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHC,9.0,t, Sales,f,?,f
+387,Cynthia Dials,"01004 Lori Pass Suite 048
+Reneeside, NE 58076",f,t,t,f,104.0,1.05,0.0,0.0,f,f,f,0.03,1.5,240612.0,100,10.0,f,, Private,f,t,f,,f,f,"White|United-States
+HS_grad -- Married-spouse-absent|Unmarried",t,f,other,,f, Exec-managerial,f,?,f
+388,Mary Shoemake,"61844 Joshua Route Apt. 425
+South James, DE 66592",f,f,f,f,,,0.0,14344.0,f,f,f,,,157612.0,?,40.0,FALSE,f, Private,f,f,f,f,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",f,f,other,13.0,f, Prof-specialty,f,?,f
+389,Dan King,"7048 Simpson Isle Suite 063
+East Cynthiaton, CO 70226",f,t,t,f,134.0,1.0,0.0,0.0,f,f,f,0.25,3.1,163942.0,134,35.0,f,f, Private,f,t,f,t,f,f,"White|Ireland
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Craft-repair,f,?,f
+390,Cheryl Bednorz,"Unit 4047 Box 8385
+DPO AP 46076",f,t,t,f,121.0,1.09,0.0,0.0,f,f,f,,,34616.0,111,25.0,f,f, Private,f,t,f,f,f,f,"White|United-States
+Some-college -- Never-married|Own-child",f,f,other,,f, Other-service,f,?,f
+391,Jonathan Neace,"577 Greer Shore Apt. 099
+Brookeside, MD 88687",f,t,t,f,103.0,0.92,0.0,0.0,f,f,f,1.8,2.1,69107.0,112,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHC,9.0,t, Handlers-cleaners,f,?,f
+392,Stephen Faulkner,"702 Brenda Port
+Stanleymouth, NY 64200",f,t,t,f,80.0,0.91,0.0,0.0,f,f,f,2.0,1.8,142766.0,88,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVHC,10.0,f, Adm-clerical,f,?,f
+393,Mary Schatz,"97495 Malone Fields Suite 199
+Jacobsfurt, NM 62998",f,t,t,f,88.0,0.83,0.0,0.0,f,f,f,0.48,1.7,114158.0,105,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Prof-specialty,f,?,f
+394,Betty Oldroyd,"8421 Wallace Harbors
+North Stephen, VA 32940",f,t,t,f,119.0,1.22,0.0,0.0,f,f,f,1.9,2.6,172577.0,97,44.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Not-in-family",t,f,other,10.0,f, Adm-clerical,f,?,f
+395,Stacie Crum,"7611 Martin Springs
+Fisherburgh, LA 13369",f,t,t,f,160.0,1.51,0.0,0.0,f,f,f,0.2,2.8,143699.0,106,15.0,FALSE,f,,,t,,t,f,f,,t,t,STMW,9.0,f, Sales,f,?,f
+396,Michael Cardona,"Unit 1269 Box 7598
+DPO AP 60394",f,t,t,f,108.0,0.7,0.0,0.0,f,f,f,0.01,2.4,237993.0,154,45.0,f,f, Private,t,t,f,t,f,f,"White|?
+Prof-school -- Married-civ-spouse|Husband",t,f,other,15.0,f, Machine-op-inspct,f,?,f
+397,Martha Langham,"2197 Collins Mountains Suite 515
+Brewerton, NH 21701",f,t,t,f,41.0,0.6,0.0,0.0,f,f,f,2.7,0.7,198822.0,69,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,9.0,f, Adm-clerical,f,?,f
+398,Jennifer Schellhase,"893 Ross Canyon
+North Patricia, MD 95213",f,t,t,f,71.0,1.1,0.0,0.0,f,f,f,0.045,2.1,444089.0,64,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+11th -- Divorced|Not-in-family",t,t,other,7.0,f, Sales,f,?,f
+399,Edna Williams,"09789 Carlos Roads Suite 605
+Lake Christopherhaven, SC 68696",f,t,t,f,107.0,1.05,0.0,0.0,f,f,f,0.25,1.6,92865.0,102,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,SVHC,10.0,f, Adm-clerical,f,?,f
+400,Lisa Tudela,"0999 Christina Trail Apt. 889
+Port Margaretberg, LA 40294",f,t,t,f,93.0,0.86,1977.0,0.0,f,f,f,0.99,1.3,344855.0,108,20.0,t,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Wife",t,f,SVI,14.0,f, Prof-specialty,f,?,f
+401,Evelyn Pittman,"008 Brian Tunnel
+Johnsonton, AK 31033",f,t,t,f,91.0,1.03,0.0,0.0,f,f,f,6.7,1.9,275232.0,89,36.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Assoc-acdm -- Never-married|Unmarried",t,f,SVI,12.0,f, Prof-specialty,f,?,f
+402,Mayra Davenport,"48001 Hood Villages Suite 518
+Brownshire, MO 42346",f,t,t,f,95.0,0.96,0.0,0.0,f,f,f,1.3,1.8,129042.0,99,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Never-married|Unmarried",t,t,other,9.0,f, Machine-op-inspct,f,?,f
+403,Robert Laughlin,"367 Foster Plains
+Mckinneytown, ID 53994",f,t,t,f,92.0,0.89,1887.0,0.0,f,f,f,0.9,2.6,304504.0,103,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,other,10.0,f, Transport-moving,f,?,f
+404,Sarah Travis,"5513 Chelsea Lakes Suite 857
+Charlestown, NJ 42814",f,t,t,f,150.0,1.22,0.0,0.0,f,f,f,1.0,2.7,117549.0,124,12.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+10th -- Never-married|Other-relative",t,f,SVHC,6.0,f, Sales,f,?,f
+405,William Baker,"Unit 0839 Box 3370
+DPO AA 50618",f,t,t,f,54.0,1.07,0.0,0.0,f,f,f,0.25,1.3,703107.0,51,40.0,f,f, Private,f,t,f,t,t,t,"Black|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, Machine-op-inspct,f,?,f
+406,Myrtle Goodwin,"38348 Stewart Drive Apt. 071
+Herreramouth, ID 00797",f,t,t,f,89.0,1.14,0.0,0.0,f,f,f,2.1,2.0,207172.0,79,40.0,f,f, Federal-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Exec-managerial,f,?,f
+407,Douglas Pagan,"30611 Reyes Gateway Apt. 293
+Amystad, AL 23774",f,t,t,f,137.0,1.19,2002.0,0.0,f,f,f,1.2,2.7,135102.0,115,45.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHC,9.0,f, Other-service,f,?,f
+408,Maria Cullen,"PSC 4572, Box 5232
+APO AP 43680",f,t,t,f,112.0,0.89,0.0,0.0,f,f,f,1.3,1.8,150817.0,126,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,9.0,f, Sales,f,?,f
+409,Carla Kinyon,"7587 Blankenship Trafficway Suite 340
+Knightside, NV 14305",f,t,t,f,107.0,1.07,0.0,2176.0,f,f,f,,,177955.0,100,40.0,f,f, Private,f,t,f,f,f,f,"White|El-Salvador
+5th-6th -- Never-married|Other-relative",f,f,other,3.0,f, Priv-house-serv,f,?,f
+410,Meagan Vanhamlin,"0135 Sylvia Plains Suite 549
+Cervanteschester, HI 31744",f,t,t,f,138.0,0.83,0.0,0.0,f,f,f,0.045,,112761.0,166,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",f,f,other,900.0,f, Machine-op-inspct,f,?,f
+411,Flora Jackson,"964 Ingram Hills
+Lake Darryl, SD 01263",f,t,t,f,70.0,0.85,0.0,0.0,f,t,f,1.5,2.2,289944.0,82,25.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Other-service,f,?,f
+412,Terry Sandmann,"696 Kyle Fall
+Kanefurt, NM 71866",f,t,t,f,98.0,1.14,0.0,0.0,f,f,f,1.1,1.8,60772.0,85,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Own-child",t,f,other,13.0,f, Exec-managerial,f,?,f
+413,Nathan Pauling,"Unit 1180 Box 6841
+DPO AE 11890",f,t,,f,86.0,0.81,0.0,0.0,,f,f,0.5,2.1,175023.0,107,37.0,f,f,,f,t,f,,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Protective-serv,f,,f
+414,Joseph Vivian,"8070 Myers Coves Apt. 658
+North Catherinechester, WA 45897",f,t,t,f,78.0,0.92,0.0,0.0,f,f,f,1.6,1.8,341762.0,85,65.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,SVHC,14.0,t, Exec-managerial,f,?,f
+415,Clair Rutherford,"534 Chris Crossroad
+Barbarabury, KY 81903",f,t,t,f,142.0,1.25,0.0,0.0,f,t,f,0.2,2.5,163396.0,113,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Married-civ-spouse|Wife",t,f,other,11.0,f, Prof-specialty,f,?,f
+416,Catalina Miller,"Unit 1923 Box 1542
+DPO AP 49182",f,t,t,f,100.0,0.86,0.0,2174.0,f,f,f,2.6,1.3,163665.0,117,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,SVI,9.0,f, Other-service,f,?,f
+417,Ann Thomas,"42207 Michele Mills Suite 883
+Sanchezfurt, IA 27323",f,t,t,f,60.0,0.77,0.0,0.0,f,f,f,5.0,1.7,102723.0,78,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,,f, Adm-clerical,f,?,f
+418,Vincent Reddick,"96459 John Glen
+West Melissaport, CA 17515",f,t,t,f,105.0,1.02,0.0,0.0,f,f,f,1.1,1.7,194636.0,103,40.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Married-civ-spouse|Husband",t,f,SVHC,11.0,f, Machine-op-inspct,f,?,f
+419,Helen Leblanc,"PSC 7610, Box 7057
+APO AA 95822",f,t,t,f,101.0,0.96,0.0,0.0,f,f,f,0.4,2.7,258430.0,105,19.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,,f, Other-service,f,?,f
+420,Stacy Bellavance,"99534 Green Pine
+East Teresa, IA 84920",f,t,t,f,94.0,1.0,0.0,0.0,f,f,f,2.2,1.7,205562.0,94,40.0,F,f, ?,f,t,f,t,f,f,"Black|United-States
+Masters -- Never-married|Not-in-family",t,f,other,14.0,f, ?,f,?,f
+421,Faye Brewer,"704 Mary Common Apt. 839
+Lake Chadmouth, ND 83666",f,t,t,f,166.0,0.97,0.0,0.0,f,t,f,0.02,,342164.0,170,37.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Separated|Unmarried",f,f,other,9.0,f, Adm-clerical,f,?,f
+422,Lilliam Simpson,"140 Melissa Road
+Port Elizabeth, SD 25621",t,t,t,f,104.0,1.04,0.0,0.0,f,f,f,1.3,1.8,182386.0,100,35.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+11th -- Divorced|Unmarried",t,f,other,7.0,f, ?,f,?,f
+423,Christina Fitzgerald,"74662 Randy Valley
+Stewarttown, KS 06842",f,t,t,f,107.0,0.74,0.0,0.0,f,t,f,0.005,1.9,222810.0,144,35.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Other-relative",t,f,other,10.0,f, ?,f,?,f
+424,Mary Hilton,"2424 Mary Corners Suite 873
+New Jill, IA 43196",f,f,f,f,,,0.0,0.0,f,f,f,,,216481.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",f,f,other,13.0,f, Prof-specialty,f,?,f
+425,Robert Maldonado,"PSC 4743, Box 4663
+APO AA 85497",f,t,t,f,92.0,0.99,0.0,0.0,f,f,f,5.7,1.4,231160.0,93,25.0,f,f, Private,t,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Other-service,f,?,f
+426,Bruce Stohr,"176 Katherine Freeway
+Jenniferberg, MT 91258",f,t,t,f,114.0,0.93,0.0,0.0,f,t,f,0.005,2.5,117476.0,122,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,other,1000.0,f, Craft-repair,f,?,f
+427,Christie Jamesson,"19388 Lisa Port
+Sherriport, VT 88113",f,t,t,f,109.0,1.01,0.0,0.0,f,f,f,0.5,1.9,256504.0,108,6.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Sales,f,?,f
+428,Barbara Null,"166 Snow Throughway Apt. 390
+Port Brandon, CA 88414",f,,t,f,71.0,0.89,,0.0,f,f,f,0.015,2.0,354529.0,80,40.0,F,f, State-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Adm-clerical,f,?,f
+429,Samantha Bechel,"6824 William Harbor Apt. 228
+Dicksonview, MT 17640",f,t,t,f,75.0,1.03,0.0,0.0,f,t,f,,1.7,60828.0,72,50.0,f,f, Self-emp-not-inc,f,t,f,f,f,t,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, Farming-fishing,f,?,f
+430,Timmy Pratt,"9334 Payne Fork Apt. 794
+Alisonside, MO 79887",f,t,t,f,135.0,1.0,0.0,0.0,f,f,f,4.0,1.8,190290.0,134,40.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVI,9.0,f, Craft-repair,f,?,f
+431,Rosie Anderson,"USS Hatfield
+FPO AA 94343",f,t,t,f,66.0,0.66,0.0,0.0,f,f,f,0.91,2.1,122609.0,99,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",t,f,other,9.0,f, Adm-clerical,f,?,f
+432,Susie Moman,"84324 Gardner Prairie
+North Jessicafurt, NE 04313",f,t,t,f,141.0,1.77,0.0,0.0,f,f,f,3.6,7.0,33397.0,80,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,SVHC,-900.0,f, Other-service,f,?,f
+433,Melvin Wiedman,"Unit 9703 Box 7021
+DPO AP 15149",f,t,t,f,85.0,1.12,0.0,15024.0,f,f,f,0.46,1.4,121124.0,77,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,SVI,13.0,f, Craft-repair,f,?,f
+434,Amy Skowron,"PSC 4856, Box 6330
+APO AA 62233",f,t,t,f,121.0,1.01,0.0,0.0,f,f,f,0.8,1.9,64148.0,119,41.0,t,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Divorced|Unmarried",t,f,other,,f, Other-service,f,?,f
+435,Dawn Herrera,"4032 Patrick Ways
+New Staceyburgh, MS 45198",f,t,t,f,117.0,0.77,0.0,0.0,f,f,f,0.04,1.9,66194.0,153,60.0,f,t, Private,f,t,f,t,f,f,"White|Outlying-US(Guam-USVI-etc)
+Bachelors -- Never-married|Not-in-family",t,f,other,13.0,f, Prof-specialty,f,?,f
+436,Marie Pale,"30905 Susan Keys
+North Christopherburgh, NE 99039",f,t,t,f,87.0,1.0,0.0,0.0,f,f,t,0.6,,168001.0,88,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Divorced|Not-in-family",f,f,other,14.0,f, Prof-specialty,f,?,f
+437,Linda Cahill,"18875 Kelly Unions Apt. 435
+East Danatown, KY 85744",f,t,t,f,111.0,0.83,0.0,0.0,f,f,f,0.3,2.3,61272.0,134,40.0,f,f, Private,t,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,other,13.0,f, Exec-managerial,f,?,f
+438,Mark Clennon,"383 Wall Inlet
+Ericton, OR 53338",f,t,t,f,86.0,0.91,0.0,7688.0,f,f,f,2.4,1.7,125933.0,95,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc_acdm -- Married-civ-spouse|Husband",t,f,other,1200.0,f, Exec-managerial,f,?,f
+439,Phyllis Shepherd,"657 Parker Parks
+South Christinestad, WV 63884",f,t,t,f,151.0,1.05,0.0,0.0,f,t,f,0.6,2.0,202952.0,144,24.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+10th -- Divorced|Not-in-family",t,f,other,6.0,f, Other-service,f,?,f
+440,Fred Smith,"PSC 5548, Box 1887
+APO AP 00711",f,t,t,f,122.0,1.13,0.0,0.0,f,f,f,2.2,2.8,76860.0,109,8.0,t,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|Philippines
+HS-grad -- Married-civ-spouse|Husband",t,f,SVI,9.0,f, Handlers-cleaners,f,?,f
+441,Muriel Turkus,"78699 Brian Ranch Apt. 441
+Johnsonmouth, AL 40778",f,f,f,f,,,0.0,0.0,f,f,f,,,312766.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",f,f,other,,f, Other-service,f,?,f
+442,Ralph Dina,"43018 Bennett Isle Suite 064
+West Caroltown, ND 75456",f,t,t,f,138.0,1.13,0.0,99999.0,f,f,f,0.1,2.8,190179.0,122,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,SVHC,13.0,t, Prof-specialty,f,?,f
+443,Eleanor Souliere,"82543 Jonathan Rapids
+Wernerstad, ME 29954",f,t,t,f,139.0,0.86,0.0,0.0,f,f,f,4.5,2.0,225724.0,161,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Own-child",t,f,SVHC,13.0,t, Adm-clerical,f,?,f
+444,Dawn Yamada,"5611 Ryan Corners
+New Aaron, TX 16718",f,t,t,f,120.0,0.8,0.0,0.0,f,f,f,0.3,2.3,160829.0,149,46.0,F,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,other,,f, Adm-clerical,f,?,f
+445,James Shelton,"790 Margaret Place Suite 895
+Port Jennifer, UT 38637",f,t,t,f,131.0,0.91,0.0,0.0,f,f,f,0.05,2.5,357612.0,144,60.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVI,9.0,f, Craft-repair,f,?,f
+446,Beth Lewis,"6230 Tucker Park
+Joseview, HI 48410",f,t,t,f,120.0,0.96,0.0,0.0,f,f,f,0.03,3.3,206947.0,125,40.0,f,f, Private,t,t,f,t,f,f,"White|United-States
+HS_grad -- Divorced|Not-in-family",t,f,other,9.0,f, Adm-clerical,f,?,f
+447,Chester Nelson,"676 Louis Mountains Apt. 193
+Hansenport, LA 41042",f,t,t,f,72.0,1.08,0.0,0.0,f,f,f,9.2,2.2,189107.0,66,40.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Machine-op-inspct,f,?,f
+448,Lucinda White,"79109 Alexander Key
+West Ashley, GA 58860",f,t,t,f,152.0,1.18,0.0,0.0,f,f,f,1.8,2.0,106252.0,129,40.0,f,t, Federal-gov,f,t,f,t,f,f,"White|United-States
+Some_college -- Divorced|Not-in-family",t,f,other,10.0,f, Adm-clerical,f,?,f
+449,Jonathan Pineda,"PSC 9268, Box 0191
+APO AP 93893",t,t,t,f,136.0,1.19,0.0,0.0,,f,f,0.65,1.3,98283.0,115,40.0,f,f, Private,f,t,,t,f,f,"Asian-Pac-Islander|United-States
+Bachelors -- Never-married|Own-child",,f,other,13.0,f, Exec-managerial,f,,f
+450,Glen Armstrong,"44096 Debra Square Suite 291
+Port Dennisville, NJ 74638",t,f,f,f,,,0.0,0.0,t,t,f,5.2,,126754.0,?,40.0,f,f, State-gov,f,f,f,t,f,,"White|Portugal
+HS_grad -- Married-civ-spouse|Husband",f,,other,-900.0,, Craft-repair,f,?,f
+451,Mike Marshall,"074 Nelson Lakes
+East Scott, MD 59689",f,t,t,f,101.0,0.94,0.0,0.0,f,f,f,2.4,2.0,379883.0,107,40.0,t,f, Self-emp-not-inc,f,t,f,t,f,f,"White|Mexico
+Masters -- Married-civ-spouse|Husband",t,f,SVHD,14.0,f, Exec-managerial,f,?,f
+452,Jennifer Beason,"USNS Hall
+FPO AE 59437",f,,t,f,123.0,1.29,,,f,f,f,0.6,3.2,,96,34.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",,f,SVI,10.0,f, Other-service,f,?,f
+453,Abigail Martinez,"127 Deleon Lock Suite 351
+Millerfort, CO 50347",f,t,t,f,111.0,1.06,0.0,0.0,f,f,f,2.3,2.6,199191.0,105,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,other,10.0,f, Adm-clerical,f,?,f
+454,Thomas Anthony,"4512 Dudley Mews Apt. 991
+Port Kimberly, DE 36770",f,t,t,f,124.0,1.15,0.0,0.0,t,f,f,0.2,2.5,171550.0,108,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Exec-managerial,f,,f
+455,Mary Taylor,"03102 David Roads Apt. 450
+Maryshire, WA 86917",f,t,t,f,95.0,0.9,1617.0,0.0,f,f,f,2.5,1.8,99359.0,106,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Divorced|Unmarried",t,f,other,9.0,f, Adm-clerical,f,?,f
+456,Gerald Marlin,"041 Smith Summit
+New Amber, DC 42699",f,t,t,f,109.0,1.14,0.0,0.0,f,f,f,0.75,2.3,61343.0,95,90.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHD,9.0,f, Craft-repair,f,?,f
+457,Rochelle Brown,"0057 Peterson Glen Suite 379
+Kevinview, AL 09071",f,t,t,f,96.0,1.05,0.0,0.0,f,f,f,1.0,2.3,141483.0,92,40.0,T,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,SVI,9.0,f, Sales,f,?,f
+458,Melvin Merriweather,"58627 Samantha Drive
+West Charlesport, VA 90374",f,f,f,f,116.0,,0.0,0.0,f,f,f,0.87,1.9,234657.0,?,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",t,f,other,-1000.0,f, Adm-clerical,f,?,f
+459,Kathy Smith,"46452 Stephanie Cove
+Port Ashleymouth, CT 92026",f,t,t,f,123.0,0.74,0.0,8614.0,f,t,f,0.1,,191841.0,166,40.0,F,f, State-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",f,f,other,13.0,f, Adm-clerical,f,?,f
+460,Ruth Washington,"98458 Jose Garden Apt. 503
+South Rodneyhaven, NJ 04100",f,f,f,f,,,0.0,0.0,f,f,f,,,185575.0,?,40.0,f,f, Local-gov,f,f,f,f,f,f,"White|United-States
+Bachelors -- Never-married|Own-child",f,f,other,13.0,f, Prof-specialty,f,?,f
+461,Kenneth Sullivan,"464 Katrina Ferry
+North Kyleview, OK 13684",f,t,t,f,93.0,0.79,0.0,0.0,f,f,f,0.5,1.2,199883.0,117,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+12th -- Divorced|Own-child",t,f,SVI,8.0,f, Transport-moving,f,?,f
+462,Lee Rose,"37444 Lisa Islands Suite 205
+Port Travis, WV 01668",t,t,t,f,100.0,1.01,0.0,0.0,f,f,f,0.005,1.5,113635.0,99,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,SVHC,13.0,f, Other-service,f,?,f
+463,Elizabeth Hoyman,"90754 Kayla Skyway Suite 430
+Kaitlynfurt, MI 44229",,t,t,f,,1.09,2206.0,0.0,f,f,f,,2.1,166149.0,,30.0,f,, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Widowed|Not-in-family",t,f,SVI,,f, Adm-clerical,f,?,f
+464,Betty Taylor,"57386 Cindy Plaza
+Jaimefort, AZ 70272",f,t,t,f,160.0,0.87,323.0,0.0,f,f,f,0.01,1.5,198774.0,185,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Divorced|Unmarried",t,f,SVI,14.0,f, Exec-managerial,f,?,f
+465,Ronda Cummings,"1131 Bradley Ranch
+North Patrick, CA 20235",f,f,f,f,,,0.0,0.0,f,f,f,,,183845.0,?,38.0,f,f, Private,f,f,f,f,f,f,"White|El-Salvador
+HS_grad -- Married-civ-spouse|Wife",f,f,other,9.0,f, Other-service,f,?,f
+466,Alice Bush,"2011 Melinda Ranch
+New Jessica, TX 43306",f,t,t,f,187.0,0.95,0.0,0.0,t,f,f,0.2,1.1,98427.0,197,35.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,other,9.0,t, Other-service,f,?,f
+467,Ruby Nadeau,"0096 Martin Flats Apt. 124
+East Steveville, NC 41011",f,t,t,f,142.0,1.13,1564.0,0.0,f,f,f,1.5,1.8,190067.0,125,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Own-child",t,f,other,13.0,f, Prof-specialty,f,?,f
+468,Ruth Falco,"65840 Arellano Stravenue
+Cannonmouth, DE 70112",f,t,t,f,73.0,1.09,0.0,0.0,t,f,f,1.4,2.3,128354.0,67,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Divorced|Unmarried",t,f,other,14.0,f, Exec-managerial,f,?,f
+469,Gary Gallman,"PSC 6563, Box 4049
+APO AP 90176",f,f,f,f,65.0,,0.0,0.0,f,f,t,10.0,2.1,291011.0,?,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,,f, Craft-repair,f,?,f
+470,Elizabeth Severin,"461 Steven Squares Suite 958
+New Wanda, UT 60150",t,t,t,f,54.0,1.66,0.0,0.0,f,f,f,0.005,2.0,39223.0,33,40.0,f,f, Private,f,t,f,t,f,f,"Black|?
+10th -- Separated|Unmarried",t,f,STMW,6.0,f, Craft-repair,f,?,f
+471,Daniel Horner,"8472 Roberts Spur
+South Christopher, AK 44757",f,t,t,f,118.0,0.95,0.0,0.0,f,f,f,,,229300.0,124,48.0,f,f, Federal-gov,f,t,f,f,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",f,f,other,,f, Prof-specialty,f,?,f
+472,Gussie Villalobos,"31883 Sexton Squares
+East Vanessa, MA 49675",f,t,t,f,86.0,0.99,0.0,0.0,t,t,f,28.0,2.0,265638.0,87,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Unmarried",t,f,SVI,10.0,f, Other-service,f,?,f
+473,Elizabeth Hoyman,"90754 Kayla Skyway Suite 430
+Kaitlynfurt, MI 44229",f,t,t,f,117.0,1.09,2206.0,0.0,f,f,f,1.6,2.1,166149.0,107,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Widowed|Not-in-family",t,f,SVI,,f, Adm-clerical,f,?,f
+474,Cynthia Searles,"USNS Campos
+FPO AA 64943",f,f,f,f,,,0.0,0.0,f,f,f,,,370494.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|Mexico
+HS-grad -- Never-married|Unmarried",f,t,other,9.0,f, Other-service,f,?,f
+475,Esther Stevens,"8148 Melissa Fork
+Bartonmouth, TN 54440",f,,,f,161.0,0.93,0.0,0.0,f,f,f,0.15,3.0,237833.0,174,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Not-in-family",t,f,other,10.0,f, Tech-support,f,?,f
+476,Frances Calderon,"PSC 6890, Box 9794
+APO AA 24584",f,f,f,f,92.0,,0.0,0.0,f,f,t,1.8,1.8,174461.0,?,22.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Divorced|Not-in-family",t,f,other,12.0,f, Other-service,f,?,f
+477,Michele Blue,"985 Justin Ridges
+North Austinfurt, SC 15219",t,t,t,f,121.0,1.38,0.0,0.0,f,f,f,3.0,2.5,200775.0,88,40.0,F,f, State-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Wife",t,f,other,14.0,f, Exec-managerial,f,?,t
+478,Gabriela Bell,"Unit 5641 Box 6865
+DPO AA 33172",f,t,t,f,91.0,0.93,0.0,0.0,f,f,f,1.8,2.1,92141.0,98,40.0,FALSE,f, Local-gov,f,t,f,t,f,f,"Black|United-States
+Assoc-acdm -- Widowed|Not-in-family",t,f,other,-1200.0,f, Adm-clerical,f,?,f
+479,Anissa Salinas,"PSC 7317, Box 6511
+APO AE 68339",t,t,t,f,91.0,1.09,0.0,0.0,f,f,f,4.5,1.7,149396.0,84,30.0,f,f, Private,f,t,f,t,f,f,"Black|Haiti
+Some-college -- Never-married|Other-relative",t,f,other,10.0,f, Other-service,f,?,f
+480,Patricia Schell,"60431 Richardson Forest Apt. 871
+Richardsonburgh, VA 29372",f,t,t,f,126.0,1.31,0.0,0.0,t,f,f,0.65,,214415.0,96,40.0,F,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Separated|Unmarried",f,f,other,,f, Prof-specialty,f,?,f
+481,Joshua Campos,"29290 Johnson Mountains Suite 749
+West Peter, AK 39913",t,t,t,f,102.0,0.86,0.0,2174.0,f,f,f,2.2,2.0,254293.0,119,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,SVHC,13.0,f, Exec-managerial,f,?,f
+482,Kimberly Leon,"8227 Monica Fields Suite 257
+Melissaberg, NC 75347",f,t,t,f,78.0,1.04,323.0,0.0,f,f,f,2.3,2.0,122109.0,75,40.0,f,f, Private,f,t,t,t,f,f,"White|United-States
+HS-grad -- Never-married|Unmarried",t,f,other,9.0,f, Prof-specialty,f,?,f
+483,Guadalupe Samuels,"653 Elizabeth Road
+Mcleanberg, NY 31776",f,t,t,f,130.0,1.05,0.0,0.0,f,f,f,1.7,1.6,148300.0,123,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,SVI,10.0,f, Other-service,f,?,f
+484,Phyllis Searcy,"USNS Tran
+FPO AP 62222",f,t,t,f,96.0,1.12,0.0,0.0,f,f,f,4.7,1.9,70240.0,85,40.0,f,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|Philippines
+HS_grad -- Married-spouse-absent|Not-in-family",t,f,SVI,9.0,f, Other-service,f,?,f
+485,Timothy Allen,"5726 Michelle Tunnel
+New Robert, ME 44729",f,t,t,f,108.0,1.07,0.0,0.0,f,f,f,2.2,3.2,163290.0,100,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",t,f,STMW,10.0,f, Sales,f,?,f
+486,Heather Hernandez,"2135 Tommy Drive
+Davishaven, AL 53959",f,f,f,f,,,0.0,0.0,f,f,t,,,259496.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",f,f,other,9.0,f, Machine-op-inspct,f,?,f
+487,Kayla Strain,"Unit 4382 Box 7635
+DPO AA 23097",t,t,t,f,109.0,1.0,0.0,0.0,f,f,f,1.01,1.8,335453.0,109,16.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,10.0,f, ?,f,?,f
+488,Amanda Reynolds,"24040 Daugherty Meadows Apt. 787
+East Kathryn, OK 68436",f,t,t,f,139.0,0.88,0.0,0.0,f,f,f,0.05,1.4,272240.0,157,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,SVI,9.0,f, Machine-op-inspct,f,?,f
+489,Blanca Neilson,"812 Harris Expressway
+North Gregoryville, IL 16432",t,t,t,f,255.0,1.04,0.0,0.0,f,f,f,0.05,6.2,218948.0,244,32.0,f,f, ?,f,t,f,t,f,f,"White|Mexico
+7th-8th -- Never-married|Not-in-family",t,f,other,4.0,f, ?,f,?,f
+490,Marc Mcgee,"055 Morrison Green Suite 852
+Port Sheenastad, ND 62568",f,f,f,f,123.0,,0.0,0.0,f,f,f,0.02,,101260.0,?,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",f,f,other,9.0,f, Machine-op-inspct,f,?,f
+491,Leila Gray,"6469 Kimberly Route
+Beckerton, ME 11448",t,t,t,f,219.0,0.8,0.0,0.0,f,f,,0.01,5.5,237452.0,274,15.0,f,f, Private,f,t,f,t,f,f,"White|Cuba
+Bachelors -- Married-civ-spouse|Wife",t,f,other,13.0,f, Prof-specialty,f,?,f
+492,Elizabeth Johnston,"2292 Spears Junctions
+Lake Jilliantown, VT 00844",f,t,t,f,97.0,1.09,0.0,0.0,f,f,t,1.3,2.3,235379.0,88,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Assoc_acdm -- Divorced|Not-in-family",t,f,other,12.0,f, Prof-specialty,f,?,f
+493,Tawnya Barry,"2670 Reyes Squares
+Pachecoland, UT 66344",,t,t,f,217.0,0.98,0.0,0.0,,f,f,0.15,3.5,206354.0,221,35.0,f,f,,f,t,,,f,f,"Black|United-States
+HS-grad -- Never-married|Unmarried",t,,other,9.0,f, Other-service,f,?,f
+494,Dorothy Vaughn,"81438 Castro Fork
+West Virginia, AK 47653",f,t,t,f,93.0,0.87,0.0,0.0,f,f,f,4.5,1.5,163788.0,107,40.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,SVI,10.0,f, ?,f,?,f
+495,Ella Cox,"USNS Barrera
+FPO AA 94853",f,t,t,f,105.0,0.8,0.0,0.0,f,f,f,2.8,1.6,214238.0,131,40.0,f,f, ?,f,t,f,t,f,f,"White|Mexico
+7th-8th -- Never-married|Not-in-family",t,f,SVI,,f, ?,f,?,f
+496,Manuel Hardter,"68123 Lopez Branch Apt. 948
+East Robinstad, CO 84190",f,t,t,f,119.0,0.9,0.0,0.0,f,f,f,0.29,1.5,204205.0,132,48.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+7th-8th -- Divorced|Not-in-family",t,f,other,4.0,f, Machine-op-inspct,f,?,f
+497,Cecilia Rivers,"567 Elizabeth Forge
+Gonzalesmouth, GA 91687",f,t,t,f,140.0,0.95,0.0,0.0,f,f,f,0.02,1.6,247075.0,148,20.0,f,f, State-gov,f,t,f,t,f,f,"Black|United-States
+HS_grad -- Never-married|Unmarried",t,f,SVI,9.0,f, Adm-clerical,f,?,f
+498,Adam Wolfgram,"Unit 3557 Box 7625
+DPO AP 85238",f,t,t,f,132.0,1.21,0.0,0.0,f,f,f,1.5,3.3,176286.0,110,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Married-civ-spouse|Husband",t,f,SVHC,12.0,f, Exec-managerial,f,?,f
+499,Clyde Do,"9411 Burton Vista
+Patrickchester, IA 63530",f,t,t,f,78.0,0.85,0.0,0.0,f,f,f,0.86,1.9,41526.0,91,30.0,f,f, Private,f,t,f,t,f,f,"White|Canada
+Bachelors -- Never-married|Own-child",t,f,SVI,13.0,f, Craft-repair,f,?,f
+500,Betty Cassel,"945 Nancy Common
+North Jenniferside, HI 54557",f,f,f,f,139.0,,0.0,0.0,f,t,f,0.065,1.8,260696.0,?,55.0,f,t, Local-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Unmarried",t,f,other,13.0,f, Prof-specialty,f,?,f
+501,Lisa Sizer,"PSC 6816, Box 4195
+APO AA 31414",t,t,t,f,191.0,0.98,0.0,0.0,f,f,f,0.22,4.0,329130.0,194,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+11th -- Separated|Own-child",t,f,other,7.0,f, Other-service,f,?,f
+502,Sharon Hernandez,"658 Nichols Green
+Holmesside, AR 71629",f,t,t,f,70.0,0.8,0.0,0.0,f,,f,0.9,,114043.0,87,,f,f, Private,t,t,f,,f,f,"Black|United-States
+Some-college -- Divorced|Unmarried",,f,other,,f, Adm-clerical,f,?,f
+503,Roy Blevins,"USS Wilson
+FPO AA 13995",f,t,t,f,93.0,0.9,0.0,0.0,f,f,f,1.1,1.8,129338.0,103,10.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+7th-8th -- Married-civ-spouse|Husband",t,f,other,400.0,f, Transport-moving,f,?,f
+504,Doris Rankins,"42183 Jesse Creek
+Kimberlyview, RI 99766",f,t,t,f,33.0,0.7,0.0,0.0,f,f,f,28.0,0.2,103794.0,47,35.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Assoc_voc -- Divorced|Not-in-family",t,f,SVI,11.0,f, Prof-specialty,f,?,f
+505,Albert Belanger,"46384 Pearson Circle Apt. 438
+Port Nicholasshire, IA 85077",f,t,t,f,135.0,0.81,0.0,5178.0,f,f,f,2.1,2.9,106014.0,167,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,SVHC,10.0,f, Sales,f,?,f
+506,Monte Gehl,"5452 Gerald Well
+Elizabethburgh, CA 59419",f,t,t,f,82.0,0.69,0.0,0.0,t,t,f,8.1,,69333.0,119,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",f,f,other,13.0,f, Farming-fishing,f,?,f
+507,Troy Aguilera,"75444 Brennan Plains
+Fisherborough, NM 35358",f,t,t,f,156.0,1.17,0.0,0.0,f,f,f,1.4,2.0,318644.0,134,20.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Prof-school -- Never-married|Own-child",t,f,SVHC,15.0,f, Prof-specialty,f,?,f
+508,Jose Malinowski,"56204 Hall Islands
+Dwaynefort, MD 14575",f,t,t,f,90.0,0.99,0.0,3103.0,f,f,f,2.3,2.6,53197.0,91,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,other,14.0,f, Prof-specialty,f,?,f
+509,Tonja Takaki,"3385 Michael Square
+West Vickie, DE 54485",f,t,t,f,133.0,1.08,0.0,0.0,f,f,f,2.0,2.5,95566.0,123,35.0,f,f, Private,f,t,f,t,f,f,"Other|Dominican-Republic
+1st-4th -- Married-spouse-absent|Own-child",t,f,SVHC,2.0,f, Other-service,f,?,f
+510,Sandi Collins,"68943 Michael Vista
+Pittsmouth, GA 13373",f,t,t,f,159.0,1.04,0.0,0.0,f,f,f,0.2,1.9,179824.0,153,36.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Never-married|Unmarried",t,f,other,9.0,f, Machine-op-inspct,f,?,f
+511,Kimberly Liefer,"71534 Joseph Shoal
+Whiteberg, IL 16670",f,t,t,f,101.0,0.8,0.0,0.0,f,f,f,1.3,1.0,118941.0,127,40.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Wife",t,f,SVI,13.0,f, Exec-managerial,f,?,f
+512,Curtis Cunningham,"280 Drake Plains
+South Tiffany, CT 44249",f,t,t,f,122.0,1.12,0.0,0.0,f,f,f,1.1,2.4,118861.0,109,48.0,f,f, Private,f,t,f,t,f,f,"Other|Guatemala
+10th -- Married-civ-spouse|Wife",t,f,other,6.0,t, Craft-repair,f,?,f
+513,Jennifer Butterworth,"1012 George Corner
+North Dylan, ND 32236",f,t,t,f,92.0,0.92,0.0,0.0,f,f,f,2.4,1.3,45381.0,100,8.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,other,,f, Adm-clerical,f,?,f
+514,Kevin Haslam,"48177 Anderson Views
+Andrewsland, NM 16046",f,t,t,f,66.0,0.66,0.0,0.0,f,f,f,8.0,,211762.0,100,40.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",f,f,other,9.0,f, Craft-repair,f,?,f
+515,Lisa Wirth,"545 Veronica Crossroad
+Hortonville, ID 75060",,t,t,f,66.0,1.09,1887.0,,t,,f,7.3,,187728.0,,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,,other,10.0,f, Prof-specialty,f,?,f
+516,Roseann Carson,"39857 David Greens Apt. 131
+Marybury, MI 47005",f,t,t,f,113.0,0.91,0.0,0.0,t,t,f,0.47,2.3,251804.0,124,30.0,f,f, ?,f,t,f,t,f,f,"Black|United-States
+5th-6th -- Widowed|Unmarried",t,f,other,,f, ?,f,?,f
+517,Lisa Wirth,"545 Veronica Crossroad
+Hortonville, ID 75060",f,t,t,f,66.0,1.09,1887.0,0.0,t,f,f,7.3,2.4,187728.0,61,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,other,10.0,f, Prof-specialty,f,?,f
+518,Willie Hilchey,"752 Hines Locks Suite 577
+North Monicaside, WA 23196",f,t,t,f,125.0,1.13,0.0,0.0,f,f,f,0.02,,217379.0,110,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some_college -- Divorced|Own-child",f,f,other,1000.0,f, Prof-specialty,f,?,f
+519,Jack Graham,"36482 Jose Gateway
+Taylorton, SD 26085",f,t,t,f,156.0,1.11,0.0,0.0,f,t,f,0.22,2.6,418405.0,140,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,other,10.0,f, Craft-repair,f,?,f
+520,Mary Campbell,"645 Salinas Mall Suite 303
+North Jasonmouth, KY 55882",f,t,t,f,172.0,1.15,0.0,0.0,f,t,f,0.49,,46699.0,150,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",f,f,other,9.0,f, Adm-clerical,f,?,f
+521,William Chandler,"8576 Robert Wells
+New Eric, OH 56331",f,t,t,f,85.0,0.94,,15024.0,f,t,f,0.54,,93997.0,91,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Husband",f,f,other,13.0,f, Exec-managerial,f,?,
+522,Sheila Barbre,"2731 Ferguson Inlet Suite 561
+New Evanland, MT 10808",t,t,t,f,139.0,1.06,0.0,0.0,f,f,f,0.15,2.3,219318.0,131,35.0,f,f, Private,f,t,f,t,f,f,"White|Puerto-Rico
+HS-grad -- Never-married|Unmarried",t,f,other,9.0,f, Adm-clerical,f,?,f
+523,Stephen Zumwalt,"PSC 8580, Box 7042
+APO AP 60567",t,t,t,f,83.0,1.14,0.0,4865.0,f,f,f,0.25,2.0,66356.0,72,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+7th-8th -- Never-married|Unmarried",t,f,other,4.0,f, Farming-fishing,f,?,f
+524,Linda Stults,"76397 Johns Causeway Apt. 732
+Chadside, MD 52483",f,f,f,f,102.0,,0.0,0.0,f,f,f,11.0,0.4,182675.0,?,45.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Wife",t,f,SVI,10.0,f, Exec-managerial,f,?,f
+525,Jacob Fitzsimmons,"22266 Gross Falls
+Ariasstad, UT 75662",f,t,t,f,132.0,1.16,0.0,0.0,f,f,f,2.2,2.3,120238.0,114,40.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Sales,f,?,f
+526,Donna Anderson,"82391 Tran Pass
+Port Michael, CO 65179",f,t,t,f,99.0,,,0.0,f,f,f,2.6,0.2,135056.0,138,40.0,,f, Private,f,t,f,t,,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,,f, Sales,f,,f
+527,Michael Mcmahan,"350 Nguyen Row
+Martinland, ME 75219",f,t,t,f,70.0,0.74,0.0,0.0,t,f,f,1.5,2.1,122206.0,94,50.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Married-civ-spouse|Husband",t,f,SVI,12.0,f, Exec-managerial,f,?,f
+528,Mary Leflore,"1227 Johnson Falls Suite 461
+East Lisastad, UT 37895",f,t,t,f,115.0,0.84,0.0,0.0,f,t,f,0.005,1.6,89991.0,138,32.0,t,f, Private,f,t,f,t,f,t,"White|United-States
+Some-college -- Never-married|Own-child",t,f,SVHD,10.0,f, Other-service,f,?,f
+529,Albert Saunders,"8147 Steven Passage
+West Aaronmouth, AR 50133",f,t,t,f,106.0,0.92,0.0,8614.0,f,f,f,1.1,1.4,367237.0,115,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Never-married|Not-in-family",t,f,SVI,11.0,f, Prof-specialty,f,?,f
+530,Karen Jones,"075 Vanessa Bypass Suite 034
+Jonathantown, NJ 86885",f,t,t,f,96.0,0.82,0.0,0.0,f,f,f,3.0,,461337.0,118,33.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",f,f,other,9.0,f, Sales,f,?,f
+531,Ann Hernandez,"453 Nancy Road Apt. 013
+Hayesstad, CA 26056",t,t,t,f,189.0,1.35,0.0,0.0,f,f,f,0.4,3.4,187346.0,140,40.0,f,f, Private,f,t,f,t,f,f,"White|Mexico
+5th-6th -- Never-married|Other-relative",t,f,other,3.0,f, Adm-clerical,f,?,f
+532,Anna Harris,"63988 Robert Springs Apt. 640
+Christophershire, UT 91901",f,t,t,f,120.0,0.97,0.0,0.0,f,f,f,0.2,2.7,157043.0,123,40.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+11th -- Widowed|Unmarried",t,f,other,7.0,f, Handlers-cleaners,f,?,f
+533,Emilia Annis,"827 Tiffany Centers
+Ericksonview, AK 55253",f,t,t,f,101.0,0.9,0.0,0.0,f,f,f,1.3,2.5,117789.0,112,40.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,SVHC,10.0,f, ?,f,?,f
+534,Raquel Rooks,"1788 Joshua Squares
+North Austin, PA 44665",f,t,t,f,145.0,0.88,0.0,0.0,f,f,f,0.79,1.5,134699.0,165,25.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Widowed|Not-in-family",t,f,SVI,9.0,f, Prof-specialty,f,?,f
+535,Willie Stevens,"667 Paula Glen
+Coxhaven, DC 27472",f,t,t,f,77.0,1.04,0.0,0.0,f,f,f,1.7,2.3,266287.0,74,25.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Own-child",t,f,SVHC,10.0,f, ?,f,?,f
+536,Renae Davis,"902 Amanda Parkways
+Christophermouth, IL 58467",f,t,t,f,69.0,0.77,0.0,0.0,f,f,f,0.1,0.7,116892.0,89,40.0,f,f, Local-gov,f,t,f,t,f,f,"Black|United-States
+Bachelors -- Divorced|Not-in-family",t,f,SVI,13.0,f, Prof-specialty,f,?,f
+537,Paul Florez,"809 Gonzalez Manors Suite 864
+Amandatown, OR 79282",f,t,t,f,97.0,0.78,0.0,0.0,f,f,f,2.7,1.6,47678.0,125,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,,f, Craft-repair,f,?,f
+538,Sharon Birchler,"9609 Jason Plaza
+South Heather, CT 54363",f,t,t,f,85.0,0.81,0.0,0.0,f,f,f,0.5,2.3,434102.0,105,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Adm-clerical,f,?,f
+539,Richard Early,"9439 Ricky Common
+Wardtown, AZ 91736",f,t,t,f,86.0,0.86,0.0,3103.0,f,f,f,2.0,1.8,167106.0,101,35.0,f,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|Philippines
+Bachelors -- Married-civ-spouse|Husband",t,f,other,13.0,f, Adm-clerical,f,?,f
+540,Jeremy Dziuk,"2963 Marisa Gateway
+Johnmouth, PA 26169",f,f,f,f,77.0,,0.0,0.0,f,f,f,1.3,2.3,100029.0,?,40.0,f,f, Self-emp-inc,f,t,f,t,f,f,"White|United-States
+Doctorate -- Married-civ-spouse|Husband",t,f,other,16.0,f, Prof-specialty,f,?,f
+541,Valentina York,"44856 Hoffman Prairie
+Port Jamiemouth, NV 50415",t,f,f,f,,,0.0,0.0,f,f,f,,,103277.0,?,35.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Some_college -- Never-married|Own-child",f,f,other,10.0,f, Adm-clerical,f,?,f
+542,Loretta Noriega,"907 Chapman Manor
+South Robert, MS 83259",f,f,f,f,,,0.0,0.0,f,f,f,,,264436.0,?,40.0,f,f, Local-gov,f,f,f,f,f,f,"White|United-States
+Some_college -- Divorced|Not-in-family",f,f,other,10.0,f, Exec-managerial,f,?,f
+543,Maryann Williamson,"664 Mclean Mission Apt. 274
+East Krystalberg, MS 60594",f,f,f,f,,,0.0,0.0,f,f,f,,,335421.0,?,40.0,f,f, Private,f,f,f,f,f,f,"White|United-States
+Masters -- Never-married|Own-child",f,f,other,,f, Exec-managerial,f,?,f
+544,Angela Gibson,"203 Green Stravenue Suite 022
+Sandersfort, VA 18946",f,t,t,f,141.0,1.28,0.0,0.0,f,f,f,0.8,2.5,114988.0,110,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Never-married|Not-in-family",t,f,SVHD,9.0,f, Other-service,f,?,f
+545,Marian West,"PSC 0343, Box 8880
+APO AE 76052",f,t,t,f,150.0,0.99,0.0,0.0,f,t,f,0.1,,328301.0,151,36.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Not-in-family",f,f,other,13.0,f, Prof-specialty,f,?,f
+546,Lucia Cruson,"2940 Krista Street
+Alisonland, MN 19764",f,t,t,f,106.0,1.28,0.0,0.0,f,f,f,1.4,,73809.0,84,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Not-in-family",f,f,other,10.0,f, Adm-clerical,f,?,f
+547,Ruby Presson,"9199 Brian Trafficway
+Alyssafurt, CT 85968",f,t,t,f,110.0,1.12,0.0,0.0,f,f,f,0.8,1.3,138597.0,98,25.0,f,f, Local-gov,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Never-married|Unmarried",t,f,other,9.0,f, Other-service,f,?,f
+548,Rose Crosby,"PSC 1949, Box 5825
+APO AA 94985",f,t,t,f,141.0,0.95,0.0,0.0,f,t,f,0.1,3.1,109849.0,149,21.0,f,f, Local-gov,f,t,f,t,f,f,"Black|United-States
+Bachelors -- Never-married|Not-in-family",t,f,other,13.0,f, Prof-specialty,f,?,f
+549,Veronica Boddie,"USS Perez
+FPO AE 99200",f,f,f,f,,,0.0,0.0,f,f,f,,,398843.0,?,35.0,f,f, Private,f,f,f,f,f,f,"Black|United-States
+Some-college -- Separated|Unmarried",f,f,other,,f, Sales,f,?,f
+550,Annette Thomas,"846 Michael Well Apt. 552
+Smithport, MA 60003",f.8,t.3,t.4,,125.0,,0.0,0.0,f.7,f,f.11,1.3,2.5,240841.0,,35.0,,f.5, Private,f.6,t.2,f.10,t,f.12,f.1,"White|United-States
+7th-8th -- Divorced|Unmarried",t.1,f.2,SVHC,4.0,f.13, Other-service,f.14,?,f.4
+551,Donna Sires,"219 Claudia Radial Apt. 741
+Port Rhonda, GA 48485",f,t,t,f,144.0,1.29,0.0,0.0,f,f,f,6.8,,51111.0,111,40.0,f,f, Local-gov,,t,f,,f,f,"White|United-States
+Bachelors -- Widowed|Not-in-family",,f,other,,f, Adm-clerical,f,?,f
+552,Belinda Anderson,"7493 Spencer Ridges Apt. 578
+New William, AK 11193",f,t,t,f,,0.66,2205.0,0.0,f,,,0.9,,155603.0,206,40.0,f,, Private,f,t,f,t,f,f,,f,f,other,10.0,f, Other-service,f,?,f
+553,Jennifer Beason,"USNS Hall
+FPO AE 59437",f,t,t,f,123.0,1.29,0.0,0.0,f,f,f,0.6,3.2,198286.0,96,34.0,f,f, Private,f,t,f,,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Other-service,f,?,f
+554,Connie Alley,"00282 Meredith Shoal Apt. 563
+North Roberthaven, IN 25949",f,t,t,f,10.0,1.13,0.0,0.0,f,f,f,89.0,0.2,43280.0,9,40.0,f,f, Federal-gov,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Own-child",t,f,SVI,,f, Exec-managerial,f,?,f
+555,Kimberly Duncan,"72886 Daniel Hill
+Rojashaven, TX 89261",f,f,f,f,98.0,,0.0,0.0,f,f,f,,,244402.0,?,40.0,f,f, Private,f,t,f,f,f,f,"White|United-States
+Assoc-acdm -- Never-married|Not-in-family",f,f,other,12.0,f, Exec-managerial,f,?,f
+556,George Stringham,"PSC 5917, Box 5117
+APO AA 75666",f,t,t,f,112.0,1.06,0.0,0.0,f,f,f,2.9,3.1,408229.0,106,45.0,f,f, Private,f,t,f,t,f,f,"White|El-Salvador
+1st-4th -- Never-married|Not-in-family",t,f,other,2.0,f, Other-service,f,?,f
+557,Henry Mcmichael,"0400 Kiara Pines Suite 134
+Watsonmouth, NH 16990",f,t,t,f,61.0,0.91,0.0,0.0,f,f,f,0.2,1.5,210452.0,67,38.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,other,14.0,f, Exec-managerial,f,?,f
+558,Tina Sholar,"89644 Eric Camp
+Elizabethfurt, DE 38778",f,t,t,f,103.0,0.98,1590.0,0.0,f,f,f,0.89,1.8,,105,45.0,f,f, Private,f,,f,t,f,f,"White|United-States
+Masters -- Divorced|Not-in-family",t,f,SVI,14.0,t, Sales,f,?,f
+559,Dorthy Bell,"7339 Isaac Cove
+West Sheila, NJ 73943",f,t,t,f,88.0,,0.0,,f,,f,2.3,,174478.0,83,40.0,f,, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",f,f,other,9.0,f,,f,?,f
+560,Cleo Pruett,"3731 Michaela Meadows Suite 552
+Sierraport, AL 51044",f,t,t,f,89.0,0.9,0.0,2964.0,f,f,f,2.6,1.3,186032.0,98,30.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Widowed|Not-in-family",t,f,SVHC,11.0,f, ?,f,?,f
+561,Megan Fraley,"0707 Carr Valley
+North Michaelville, WA 89857",f,t,t,f,56.0,0.68,0.0,0.0,f,f,f,2.5,0.4,154537.0,83,20.0,f,f, Self-emp-not-inc,f,t,f,t,f,f,"White|United-States
+Bachelors -- Divorced|Not-in-family",t,f,SVI,,f, Other-service,f,?,f
+562,Natasha Turpin,"USNS Young
+FPO AP 22813",f,t,t,f,80.0,0.92,0.0,0.0,t,t,f,6.3,1.2,129836.0,87,10.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS_grad -- Married-civ-spouse|Wife",t,f,other,,f, Other-service,f,?,f
+563,Katherine Iverson,"638 Adam Rapids Apt. 217
+Lake Randytown, RI 44134",f,t,t,f,87.0,0.84,0.0,0.0,f,f,f,1.0,2.0,201481.0,103,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,SVHC,13.0,f, Exec-managerial,f,?,f
+564,Gregory Oldfield,"739 Michael Vista
+Port Michaelport, NY 70431",,t,t,f,107.0,0.79,0.0,0.0,f,,f,,1.5,337825.0,135,45.0,f,,,f,t,f,t,,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Craft-repair,f,?,f
+565,Edward Carmichael,"49882 Adams Mews Apt. 985
+Brittanyshire, DC 98968",f,t,t,f,62.0,0.94,0.0,0.0,f,f,f,0.1,,271767.0,66,40.0,f,f, Private,f,t,f,t,f,f,"White|?
+Bachelors -- Separated|Not-in-family",f,f,other,13.0,f, Prof-specialty,f,?,f
+566,Santos Young,"072 Lopez Isle Apt. 571
+Acevedoshire, ND 60693",f,t,t,f,193.0,1.33,0.0,,f,f,f,,,120910.0,144,35.0,f,, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Unmarried",f,f,other,-900.0,f, Other-service,f,?,
+567,Belinda Anderson,"7493 Spencer Ridges Apt. 578
+New William, AK 11193",f,t,t,f,135.0,0.66,2205.0,0.0,f,t,f,0.9,,,206,40.0,,f, Private,f,t,f,t,f,f,"Black|United-States
+Some-college -- Never-married|Own-child",f,f,other,10.0,f, Other-service,f,?,f
+568,Sharon Hernandez,"658 Nichols Green
+Holmesside, AR 71629",f,t,t,f,70.0,0.8,0.0,0.0,f,,f,0.9,,114043.0,87,40.0,f,f, Private,t,t,f,t,f,f,"Black|United-States
+Some-college -- Divorced|Unmarried",f,f,other,10.0,f, Adm-clerical,f,?,f
+569,Candance Howe,"7496 Brandon Lodge
+Campbellmouth, LA 88969",f,t,t,f,211.0,1.88,0.0,0.0,f,f,f,0.62,3.8,118799.0,112,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Not-in-family",t,f,STMW,9.0,f, Adm-clerical,f,?,t
+570,Andrew Fowler,"Unit 4918 Box 4712
+DPO AP 86473",f,t,t,f,101.0,0.93,0.0,0.0,f,f,f,8.0,1.3,340269.0,108,40.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVI,10.0,f, Protective-serv,f,?,f
+571,Carroll Stallard,"9296 Evans Mountains Suite 036
+Hensleybury, SC 55144",f,t,t,f,91.0,0.84,0.0,0.0,f,f,f,2.1,2.2,191002.0,108,40.0,f,f, Private,f,t,f,t,f,f,"White|Poland
+HS_grad -- Never-married|Not-in-family",t,f,other,9.0,f, Sales,f,?,f
+572,Nancy Pettrey,"8221 Gaines Tunnel Apt. 216
+Jasonside, NV 46641",f,t,t,f,182.0,1.37,0.0,0.0,f,f,f,1.5,2.2,277530.0,133,40.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,other,9.0,f, Exec-managerial,f,?,f
+573,Mary Delaughter,"Unit 8584 Box 5503
+DPO AE 40523",f,t,t,f,121.0,1.13,0.0,0.0,f,f,f,1.4,1.6,116360.0,107,35.0,f,f, Private,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Divorced|Not-in-family",t,f,other,9.0,f, Other-service,f,?,f
+574,Raymond Clark,"795 Matthews Throughway Suite 398
+New Joyce, RI 21163",f,t,t,f,120.0,0.98,0.0,0.0,f,f,f,1.6,2.1,316797.0,122,45.0,f,f, Private,f,t,f,t,f,f,"White|Mexico
+7th-8th -- Married-civ-spouse|Own-child",t,f,SVI,4.0,f, Handlers-cleaners,f,?,f
+575,Frances Pryor,"72409 Reed Forest Suite 209
+Port Joan, WV 55241",f,,t,,147.0,1.13,0.0,3103.0,f,f,f,1.8,2.5,303674.0,129,20.0,f,f, ?,f,t,f,t,f,f,,t,f,SVHC,,t, ?,f,?,
+576,Esther Beaty,"380 Cynthia Villages
+New Bernardfurt, NJ 77306",f,t,t,f,119.0,1.09,0.0,0.0,f,f,f,2.5,1.6,75363.0,110,40.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Separated|Unmarried",t,f,other,10.0,f, Exec-managerial,f,?,f
+577,Brian Sanchez,"13918 Cook Mews Apt. 435
+East Jason, SC 39886",f,f,f,f,67.0,,0.0,14344.0,t,f,f,10.0,0.3,340917.0,?,40.0,t,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Unmarried",t,f,SVI,9.0,t, Craft-repair,f,?,f
+578,Dwayne Sebek,"3174 Sabrina Neck Suite 695
+New Jeremyberg, MO 45514",f,t,t,f,92.0,0.8,0.0,0.0,f,f,f,2.0,2.3,196504.0,114,38.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Divorced|Unmarried",t,f,other,9.0,f, Craft-repair,f,?,f
+579,Lucilla Mcelwain,"00093 Long Walks
+Chenberg, VT 62400",f,t,t,f,155.0,1.43,0.0,0.0,f,f,f,2.4,2.7,217971.0,109,13.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+9th -- Widowed|Unmarried",t,f,SVHC,,f, Sales,f,?,f
+580,Daniel Reed,"5368 Weeks Fort Apt. 920
+Ortiztown, AL 60751",f,t,t,f,119.0,1.05,0.0,0.0,f,f,f,1.2,1.6,387074.0,113,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-voc -- Married-civ-spouse|Husband",t,f,SVI,11.0,f, Craft-repair,f,?,f
+581,Roger Ortiz,"02980 Bryan Dam
+West Jenniferhaven, NM 44980",f,t,t,f,78.0,0.95,0.0,0.0,f,f,f,0.72,0.5,211574.0,82,1.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+10th -- Married-civ-spouse|Husband",t,f,SVI,6.0,f, ?,f,?,f
+582,Helen Irwin,"Unit 0837 Box 3704
+DPO AE 18467",f,t,t,f,133.0,1.16,0.0,0.0,f,f,f,1.2,2.5,51795.0,115,32.0,f,f, ?,f,t,f,t,f,f,"Black|United-States
+HS-grad -- Divorced|Unmarried",t,f,other,9.0,f, ?,f,?,f
+583,Mary Jackson,"97551 Taylor Junctions
+Robertshire, NY 60713",f,t,t,f,81.0,0.9,0.0,0.0,f,f,t,1.3,2.1,329355.0,90,13.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Widowed|Not-in-family",t,f,other,9.0,f, Other-service,f,?,f
+584,Douglas Dean,"90992 Nichole Ramp Apt. 881
+New Tanyahaven, NE 83822",f,t,t,f,73.0,0.97,0.0,0.0,f,f,f,1.0,1.6,196328.0,75,40.0,t,f, Private,f,t,f,t,f,f,"Black|United-States
+Bachelors -- Married-civ-spouse|Husband",t,f,SVI,1300.0,f, Exec-managerial,f,?,f
+585,Theodora Shropshire,"59801 Cox Extensions Suite 593
+North Johnberg, MS 75654",f,t,t,f,106.0,1.31,0.0,0.0,t,t,f,13.0,1.3,182687.0,82,,,f, ?,,t,f,t,f,f,,t,f,SVI,10.0,f, ?,f,?,f
+586,Sondra Hollenbeck,"3926 Carlson Burg
+New Matthewbury, ND 22972",f,t,t,t,83.0,0.85,0.0,0.0,f,f,f,3.9,,267404.0,97,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",f,f,SVHC,9.0,f, Craft-repair,f,?,f
+587,Melba Fleming,"2371 Obrien Court
+Campbellview, OR 07513",f,t,t,f,108.0,0.83,0.0,0.0,f,f,f,1.1,1.3,343403.0,130,20.0,f,f, Private,f,t,f,t,f,f,"White|?
+Doctorate -- Married-civ-spouse|Wife",t,f,SVI,,f, Tech-support,f,?,f
+588,Kathryn Medina,"20617 Ryan Groves Suite 694
+South Natasha, WA 44105",f,t,t,f,142.0,1.2,0.0,0.0,f,f,f,0.4,,203258.0,118,35.0,FALSE,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",f,f,other,9.0,f, Other-service,f,?,f
+589,Lyndia Yoshino,"034 Kristen Field
+Lindseyland, WV 39879",f,t,t,f,114.0,1.11,0.0,0.0,f,f,f,,,189265.0,102,40.0,f,f, Self-emp-not-inc,f,t,f,f,f,t,"White|United-States
+Assoc-acdm -- Divorced|Not-in-family",f,f,other,12.0,f, Adm-clerical,f,?,f
+590,Ricardo Jeter,"1996 Cynthia Crescent Suite 517
+East Karenmouth, WA 57648",f,t,t,f,158.0,1.18,0.0,0.0,f,f,f,0.52,2.4,121568.0,134,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,SVHC,9.0,f, Handlers-cleaners,f,?,f
+591,Refugio Lyons,"4976 Ortiz Plaza Apt. 085
+Christopherside, SD 32970",f,t,t,f,65.0,1.16,0.0,0.0,f,f,f,103.0,2.1,180807.0,56,40.0,f,t, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",t,f,SVI,10.0,f, Exec-managerial,f,?,f
+592,Cordell Genovese,"086 Moore Island Apt. 753
+Lake Josephton, MD 40533",f,t,t,f,120.0,1.06,0.0,0.0,f,f,f,0.98,2.5,149769.0,113,40.0,f,f, Private,f,t,f,t,f,f,"Asian-Pac-Islander|Cambodia
+HS-grad -- Never-married|Not-in-family",t,f,SVHC,9.0,t, Machine-op-inspct,f,?,f
+593,John Sullivan,"525 Green Ford Apt. 397
+Crossland, MN 92974",f,t,t,f,99.0,0.73,0.0,0.0,f,f,f,0.02,2.4,297574.0,135,99.0,F,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Married-civ-spouse|Husband",t,t,other,12.0,f, Exec-managerial,f,?,f
+594,Margaret Mcelroy,"12920 Jackson Viaduct Suite 467
+New David, NV 36666",f,t,t,f,85.0,0.94,0.0,0.0,f,f,f,1.6,1.5,95078.0,90,15.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+HS-grad -- Never-married|Own-child",t,f,SVI,9.0,f, Adm-clerical,f,?,f
+595,Marie Lane,"17117 Pamela Valleys
+Anthonyland, NH 78773",f,t,t,f,99.0,1.13,0.0,0.0,f,f,f,,2.4,246226.0,88,40.0,f,f, Private,f,t,f,f,f,f,"White|United-States
+HS-grad -- Never-married|Not-in-family",t,f,other,9.0,f, Craft-repair,f,?,f
+596,James Sitzes,"566 Garrett Grove Suite 944
+West Betty, VT 65203",f,t,t,f,103.0,1.05,1887.0,0.0,f,f,f,1.1,2.2,146659.0,98,35.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",t,f,SVHC,14.0,f, Prof-specialty,f,?,f
+597,Sharon Mitchell,"0514 Danielle Ramp
+Donaldsonbury, AR 07669",f,t,t,f,126.0,0.85,0.0,0.0,f,f,f,1.3,0.9,38434.0,148,40.0,f,f, Federal-gov,f,t,f,t,f,f,"White|United-States
+Bachelors -- Widowed|Unmarried",t,f,SVI,,f, Exec-managerial,f,?,f
+598,Gloria Semmes,"25349 Carroll Springs
+Tinastad, NE 11758",f,f,f,f,93.0,,0.0,0.0,f,f,f,0.1,1.8,148254.0,?,35.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Divorced|Not-in-family",t,f,SVHC,14.0,t, Prof-specialty,f,?,f
+599,Christina Bernal,"USCGC Bishop
+FPO AP 43393",f,t,t,f,97.0,1.12,0.0,0.0,f,f,f,4.6,1.6,105693.0,87,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Not-in-family",t,f,SVHC,1300.0,f, Prof-specialty,f,?,f
+600,Sheila Solomon,"2630 Conley Points
+Christopherton, MN 48857",f,t,t,f,89.0,1.22,0.0,0.0,f,f,f,1.6,2.3,197919.0,72,40.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Some-college -- Divorced|Unmarried",t,f,other,10.0,f, Other-service,f,?,f
+601,Tyler Schwartz,"PSC 6610, Box 0748
+APO AP 57907",f,t,t,f,130.0,1.01,0.0,0.0,f,f,f,2.3,2.5,182378.0,129,30.0,f,f, ?,f,t,f,t,f,f,"White|United-States
+7th-8th -- Married-civ-spouse|Husband",t,f,other,4.0,f, ?,f,?,f
+602,Beverly Kitts,"9353 Christine Spurs Apt. 937
+Barkershire, HI 19138",f,t,t,f,164.0,0.92,0.0,0.0,f,t,f,0.03,2.0,112797.0,178,60.0,f,f, Local-gov,f,t,f,t,f,f,"White|United-States
+Masters -- Divorced|Unmarried",t,f,other,,f, Prof-specialty,f,?,f
+603,Alma Mulvihill,"28205 Brooks Rapid
+Liberg, HI 51116",f,t,t,f,89.0,1.02,0.0,0.0,f,f,f,9.4,2.6,140559.0,87,45.0,f,f, Private,f,t,f,t,f,t,"White|United-States
+HS-grad -- Married-civ-spouse|Wife",t,f,other,9.0,f, Priv-house-serv,f,?,f
+604,Peggy Hipp,"921 Mendoza Locks
+Garzachester, WI 99030",f,t,t,f,93.0,1.03,0.0,0.0,f,f,f,0.35,2.0,282092.0,90,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Assoc-acdm -- Never-married|Not-in-family",t,f,SVI,12.0,f, Tech-support,f,?,f
+605,Nathan Pauling,"Unit 1180 Box 6841
+DPO AE 11890",f,t,t,f,86.0,0.81,0.0,0.0,,f,f,0.5,2.1,175023.0,107,37.0,f,f, State-gov,f,t,f,t,f,f,"White|United-States
+HS-grad -- Married-civ-spouse|Husband",t,f,other,9.0,f, Protective-serv,f,?,f
+606,Denise Griffin,"07754 Christina Lakes
+South Catherineberg, UT 50588",f,t,t,f,13.0,0.99,0.0,1055.0,f,f,f,60.0,0.3,205940.0,13,30.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Never-married|Own-child",t,f,other,13.0,f, Adm-clerical,f,?,f
+607,Esther Stevens,"8148 Melissa Fork
+Bartonmouth, TN 54440",f,t,t,f,161.0,0.93,0.0,0.0,f,f,f,0.15,3.0,237833.0,174,40.0,f,f, Private,f,t,f,t,f,,"White|United-States
+Some-college -- Divorced|Not-in-family",,f,,10.0,f, Tech-support,f,?,f
+608,Shirley Alba,"93492 Anthony Drive Suite 190
+East Troyton, NC 84242",f,t,t,f,116.0,1.08,0.0,0.0,f,f,t,1.5,2.3,,107,20.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,other,10.0,f, Sales,f,?,f
+609,Mark Kilpatrick,"4360 Chandler Fords Suite 739
+East Angelfort, VT 57774",f,t,t,f,88.0,0.72,0.0,4386.0,f,f,f,4.3,,110643.0,122,40.0,f,f, Private,,,f,t,f,f,"White|United-States
+Masters -- Married-civ-spouse|Husband",f,f,SVI,-1400.0,f, Adm-clerical,f,?,f
+610,Marla Waid,"720 Brennan Meadow
+Dunnland, SC 38506",,t,t,f,106.0,1.05,0.0,0.0,f,f,f,0.6,2.0,82497.0,101,,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,SVHC,10.0,f, Other-service,f,?,
+611,Emily Miller,"13346 Barton Plaza Apt. 064
+South Tonimouth, OH 32325",f,t,t,f,84.0,0.96,0.0,7688.0,f,f,f,1.1,1.6,162442.0,87,50.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Bachelors -- Married-civ-spouse|Wife",t,f,SVI,13.0,f, Prof-specialty,f,?,f
+612,Matthew Capps,"27926 Vaughn Curve
+Murphyport, CO 85853",f,t,t,f,143.0,0.9,1902.0,0.0,f,f,f,0.02,1.6,100313.0,159,40.0,f,f, Private,f,t,f,t,f,f,"White|United-States
+Some-college -- Married-civ-spouse|Husband",t,f,other,10.0,f, Protective-serv,f,?,f
+613,Shirley Alba,"93492 Anthony Drive Suite 190
+East Troyton, NC 84242",f,t,t,f,116.0,1.08,0.0,0.0,f,f,t,1.5,,26842.0,107,20.0,f,f, Private,f,t,f,,,f,"White|United-States
+Some-college -- Never-married|Not-in-family",t,f,other,,f, Sales,f,?,
